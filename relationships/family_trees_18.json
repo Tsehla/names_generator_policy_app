@@ -1,2419 +1,2374 @@
 [
   [
     {
-      "name": "Bonginkosi",
-      "surname": "Dhlomo",
-      "contactNumber": "0517809372",
-      "homeAddress": "398 Ncusi Light",
-      "idNumber": "6705055466421",
-      "gender": "Agender"
-    },
-    {
-      "name": "Thulisile",
-      "surname": "Khuzwayo",
-      "contactNumber": "0255859855",
-      "homeAddress": "2943 Nomvula Glen",
-      "idNumber": "8708243166466",
-      "gender": "Genderqueer",
-      "relationship": "Grandson"
-    },
-    {
-      "name": "Thamsanqa",
-      "surname": "Dingiswayo",
-      "contactNumber": "0179381109",
-      "homeAddress": "90467 Bhuyeni Passage",
-      "idNumber": "3812134840001",
-      "gender": "Male",
-      "relationship": "Grandson"
-    },
-    {
-      "name": "Bhekizizwe",
-      "surname": "Thoyana",
-      "contactNumber": "0296951578",
-      "homeAddress": "969 Nkosenye Villages",
-      "idNumber": "9103071599112",
-      "gender": "Female",
-      "relationship": "Granddaughter"
-    },
-    {
-      "name": "Sithembiso",
-      "surname": "Zungu",
-      "contactNumber": "0294655069",
-      "homeAddress": "8569 Ndebele Dam",
-      "idNumber": "4903075126028",
-      "gender": "Pangender",
-      "relationship": "Grandmother"
-    },
-    {
-      "name": "Dumisani",
-      "surname": "Dhlomo",
-      "contactNumber": "0103510936",
-      "homeAddress": "568 Ndondoloza Forges",
-      "idNumber": "6412221622820",
-      "gender": "Transgender Male",
-      "relationship": "Father"
-    }
-  ],
-  [
-    {
-      "name": "Nhlakanipho",
-      "surname": "Sothole",
-      "contactNumber": "0179975833",
-      "homeAddress": "9598 Bayeni Inlet",
-      "idNumber": "6102268102626",
-      "gender": "Bigender"
-    },
-    {
-      "name": "Zenzele",
-      "surname": "Sibiya",
-      "contactNumber": "0490438952",
-      "homeAddress": "86681 Ncusi Glen",
-      "idNumber": "7510195090931",
-      "gender": "Non-Binary",
-      "relationship": "Friend"
-    },
-    {
-      "name": "Bonginkosi",
-      "surname": "Sothole",
-      "contactNumber": "0540925255",
-      "homeAddress": "5978 Nokuthula Common",
-      "idNumber": "9712082188495",
-      "gender": "Two-Spirit",
-      "relationship": "Father"
-    },
-    {
-      "name": "Khethiwe",
-      "surname": "Hlongwa",
-      "contactNumber": "0545742777",
-      "homeAddress": "5006 Nhleko Pike",
-      "idNumber": "8808212603177",
-      "gender": "Other",
-      "relationship": "Nephew"
-    },
-    {
-      "name": "Yibanathi",
-      "surname": "Ncusi",
-      "contactNumber": "0488666077",
-      "homeAddress": "936 Thobeka Keys",
-      "idNumber": "7512086654153",
-      "gender": "Genderqueer",
-      "relationship": "Partner"
-    },
-    {
-      "name": "Musawenkosi",
-      "surname": "Sothole",
-      "contactNumber": "0235509501",
-      "homeAddress": "9869 Themba Junction",
-      "idNumber": "3411226086717",
-      "gender": "Transgender Female",
-      "relationship": "Husband"
-    }
-  ],
-  [
-    {
-      "name": "Ntokozo",
-      "surname": "Gwala",
-      "contactNumber": "0843367528",
-      "homeAddress": "82558 Mabizela Views",
-      "idNumber": "7704197913558",
-      "gender": "Pangender"
-    },
-    {
-      "name": "Nomvula",
-      "surname": "Zuma",
-      "contactNumber": "0124425407",
-      "homeAddress": "324 Mashinini Drive",
-      "idNumber": "3208051547000",
-      "gender": "Female",
-      "relationship": "Cousin"
-    },
-    {
-      "name": "Duduzile",
-      "surname": "Dhlomo",
-      "contactNumber": "0358025067",
-      "homeAddress": "91205 Nonkululeko Light",
-      "idNumber": "7104114220748",
-      "gender": "Genderfluid",
-      "relationship": "Grandfather"
-    },
-    {
-      "name": "Isisa",
-      "surname": "Luthuli",
-      "contactNumber": "0390788911",
-      "homeAddress": "3781 Ndleleni Plaza",
-      "idNumber": "5904147162562",
-      "gender": "Non-Binary",
-      "relationship": "Grandmother"
-    },
-    {
-      "name": "Ndleleni",
-      "surname": "Gwala",
-      "contactNumber": "0376188654",
-      "homeAddress": "29405 Ndebele Station",
-      "idNumber": "6304186166099",
-      "gender": "Two-Spirit",
-      "relationship": "Father"
-    },
-    {
-      "name": "Lungelo",
-      "surname": "Zondi",
-      "contactNumber": "0576471853",
-      "homeAddress": "53419 Nandi Street",
-      "idNumber": "9201247547579",
-      "gender": "Agender",
-      "relationship": "Granddaughter"
-    },
-    {
-      "name": "Linda",
-      "surname": "Senzangakhona",
-      "contactNumber": "0284310753",
-      "homeAddress": "75382 Chiliza Bypass",
-      "idNumber": "6903083468687",
-      "gender": "Female",
-      "relationship": "Aunt"
-    }
-  ],
-  [
-    {
-      "name": "Nofoto",
-      "surname": "Wosiyane",
-      "contactNumber": "0726556430",
-      "homeAddress": "93674 Ayanda Falls",
-      "idNumber": "5909048259846",
-      "gender": "Other"
-    },
-    {
-      "name": "Vusumuzi",
-      "surname": "Chiliza",
-      "contactNumber": "0448543696",
-      "homeAddress": "97926 Shaka Glens",
-      "idNumber": "4407044893765",
-      "gender": "Two-Spirit",
-      "relationship": "Aunt"
-    },
-    {
-      "name": "Lungelo",
-      "surname": "Wosiyane",
-      "contactNumber": "0587248534",
-      "homeAddress": "4568 Bafana Curve",
-      "idNumber": "8404116483334",
-      "gender": "Male",
-      "relationship": "Brother"
-    }
-  ],
-  [
-    {
-      "name": "Liyana",
-      "surname": "Chiliza",
-      "contactNumber": "0191569302",
-      "homeAddress": "16664 Radebe Streets",
-      "idNumber": "9801154754687",
-      "gender": "Two-Spirit"
-    },
-    {
-      "name": "Nozipho",
+      "name": "Sindisiwe",
       "surname": "Malinga",
-      "contactNumber": "0112046754",
-      "homeAddress": "8553 Khumalo Crossing",
-      "idNumber": "9003109839140",
-      "gender": "Female",
-      "relationship": "Aunt"
-    },
-    {
-      "name": "Inyoni",
-      "surname": "Gwacela",
-      "contactNumber": "0428071362",
-      "homeAddress": "28264 Mtolo Track",
-      "idNumber": "9601023624696",
-      "gender": "Agender",
-      "relationship": "Nephew"
-    },
-    {
-      "name": "Lwandle",
-      "surname": "Lamula",
-      "contactNumber": "0824187399",
-      "homeAddress": "3707 Nomvethe Brook",
-      "idNumber": "3308161171623",
-      "gender": "Non-Binary",
-      "relationship": "Nephew"
-    },
-    {
-      "name": "Thamsanqa",
-      "surname": "Buthelezi",
-      "contactNumber": "0383915286",
-      "homeAddress": "9412 Gwala Shore",
-      "idNumber": "5205180421367",
-      "gender": "Transgender Female",
-      "relationship": "Nephew"
-    },
-    {
-      "name": "Langa",
-      "surname": "Thoyana",
-      "contactNumber": "0262842080",
-      "homeAddress": "27806 Sanele Creek",
-      "idNumber": "3710142232319",
-      "gender": "Male",
-      "relationship": "Uncle"
-    }
-  ],
-  [
-    {
-      "name": "Liyana",
-      "surname": "Mehloluhlaza",
-      "contactNumber": "0482911552",
-      "homeAddress": "21968 Philani Square",
-      "idNumber": "5309023540383",
-      "gender": "Female"
-    }
-  ],
-  [
-    {
-      "name": "Yibanathi",
-      "surname": "Wosiyane",
-      "contactNumber": "0733100504",
-      "homeAddress": "1647 Ntombizodwa Ferry",
-      "idNumber": "7505153659868",
-      "gender": "Transgender Female"
-    },
-    {
-      "name": "Thadie",
-      "surname": "Wosiyane",
-      "contactNumber": "0145776040",
-      "homeAddress": "38933 Dingiswayo Ford",
-      "idNumber": "4205160025748",
-      "gender": "Two-Spirit",
-      "relationship": "Father"
-    }
-  ],
-  [
-    {
-      "name": "Ayanda",
-      "surname": "Sondisa",
-      "contactNumber": "0603436257",
-      "homeAddress": "602 Khuzwayo Fords",
-      "idNumber": "3808176780981",
-      "gender": "Transgender Male"
-    },
-    {
-      "name": "Khethiwe",
-      "surname": "Sondisa",
-      "contactNumber": "0739966891",
-      "homeAddress": "2926 Kagiso Pine",
-      "idNumber": "7908111632123",
-      "gender": "Female",
-      "relationship": "Niece"
-    },
-    {
-      "name": "Thadie",
-      "surname": "Ngubane",
-      "contactNumber": "0150021015",
-      "homeAddress": "22277 Gama Course",
-      "idNumber": "9509097136255",
-      "gender": "Genderfluid",
-      "relationship": "Grandfather"
-    },
-    {
-      "name": "Lwandle",
-      "surname": "Sondisa",
-      "contactNumber": "0600667388",
-      "homeAddress": "6233 Bonginkosi Court",
-      "idNumber": "3811020044162",
-      "gender": "Transgender Female",
-      "relationship": "Brother"
-    }
-  ],
-  [
-    {
-      "name": "Mhambi",
-      "surname": "Siwele",
-      "contactNumber": "0296835621",
-      "homeAddress": "28062 Shaka Curve",
-      "idNumber": "3402255484761",
-      "gender": "Other"
-    }
-  ],
-  [
-    {
-      "name": "Nkanyezi",
-      "surname": "Khumalo",
-      "contactNumber": "0341372042",
-      "homeAddress": "6425 Thusi Tunnel",
-      "idNumber": "4108031755589",
-      "gender": "Pangender"
-    },
-    {
-      "name": "Langa",
-      "surname": "Lembede",
-      "contactNumber": "0559583716",
-      "homeAddress": "695 Zithulele Road",
-      "idNumber": "4909161698370",
-      "gender": "Agender",
-      "relationship": "Cousin"
-    },
-    {
-      "name": "Dumisani",
-      "surname": "Khumalo",
-      "contactNumber": "0461261974",
-      "homeAddress": "136 Ngcolosi Hills",
-      "idNumber": "6312088708019",
-      "gender": "Pangender",
-      "relationship": "Son"
-    },
-    {
-      "name": "Nhlakanipho",
-      "surname": "Mabizela",
-      "contactNumber": "0577645799",
-      "homeAddress": "6252 Dhlomo Courts",
-      "idNumber": "6404200857886",
-      "gender": "Non-Binary",
-      "relationship": "Cousin"
-    },
-    {
-      "name": "Nkosinhle",
-      "surname": "Vezi",
-      "contactNumber": "0413674754",
-      "homeAddress": "183 Vusumuzi Islands",
-      "idNumber": "6603124610317",
-      "gender": "Transgender Male",
-      "relationship": "Niece"
-    }
-  ],
-  [
-    {
-      "name": "Buhle",
-      "surname": "Mthembu",
-      "contactNumber": "0620248017",
-      "homeAddress": "684 Tshabalala Land",
-      "idNumber": "7203243804496",
+      "contactNumber": "0454567217",
+      "homeAddress": "475 Vilakazi Grove",
+      "idNumber": "6907143619159",
       "gender": "Genderfluid"
-    },
-    {
-      "name": "Nonkululeko",
-      "surname": "Mthembu",
-      "contactNumber": "0714971328",
-      "homeAddress": "906 Nonyana Courts",
-      "idNumber": "6109271014161",
-      "gender": "Female",
-      "relationship": "Brother"
-    },
-    {
-      "name": "Lungelo",
-      "surname": "Gwacela",
-      "contactNumber": "0123091669",
-      "homeAddress": "4060 Mthethwa Course",
-      "idNumber": "7002084608570",
-      "gender": "Bigender",
-      "relationship": "Granddaughter"
-    },
-    {
-      "name": "Nozipho",
-      "surname": "Ngema",
-      "contactNumber": "0631031658",
-      "homeAddress": "5079 Lerato Prairie",
-      "idNumber": "6105166557123",
-      "gender": "Genderfluid",
-      "relationship": "Grandfather"
-    },
-    {
-      "name": "Sanele",
-      "surname": "Mthembu",
-      "contactNumber": "0325218898",
-      "homeAddress": "92730 Msibi Trail",
-      "idNumber": "4107159942136",
-      "gender": "Genderfluid",
-      "relationship": "Mother"
-    },
-    {
-      "name": "Mbalienhle",
-      "surname": "Mabizela",
-      "contactNumber": "0193506390",
-      "homeAddress": "22433 Zuma Shore",
-      "idNumber": "3105097585216",
-      "gender": "Female",
-      "relationship": "Grandmother"
-    },
-    {
-      "name": "Lwandle",
-      "surname": "Mthembu",
-      "contactNumber": "0378141097",
-      "homeAddress": "213 Ndondoloza Villages",
-      "idNumber": "8802079700080",
-      "gender": "Transgender Male",
-      "relationship": "Wife"
-    },
-    {
-      "name": "Themba",
-      "surname": "Mthembu",
-      "contactNumber": "0120715131",
-      "homeAddress": "9343 Msibi Lakes",
-      "idNumber": "7811062677838",
-      "gender": "Transgender Male",
-      "relationship": "Mother"
-    },
-    {
-      "name": "Solomon",
-      "surname": "Sokhela",
-      "contactNumber": "0842094327",
-      "homeAddress": "707 Bhengani Estates",
-      "idNumber": "8707220545509",
-      "gender": "Female",
-      "relationship": "Cousin"
     }
   ],
   [
-    {
-      "name": "Bhekizizwe",
-      "surname": "Nonyana",
-      "contactNumber": "0524899719",
-      "homeAddress": "2155 Maphisa Well",
-      "idNumber": "5706095641768",
-      "gender": "Male"
-    },
-    {
-      "name": "Phila",
-      "surname": "Wosiyane",
-      "contactNumber": "0895488801",
-      "homeAddress": "90098 Ayize Circle",
-      "idNumber": "5310192612202",
-      "gender": "Female",
-      "relationship": "Nephew"
-    }
-  ],
-  [
-    {
-      "name": "Mandla",
-      "surname": "Thumbeza",
-      "contactNumber": "0840920287",
-      "homeAddress": "297 Lamula Points",
-      "idNumber": "8603048416854",
-      "gender": "Two-Spirit"
-    },
-    {
-      "name": "Nhlakanipho",
-      "surname": "Nozulu",
-      "contactNumber": "0125215241",
-      "homeAddress": "6806 Mpilo Road",
-      "idNumber": "3007014255560",
-      "gender": "Pangender",
-      "relationship": "Friend"
-    },
-    {
-      "name": "Nomvula",
-      "surname": "Cebekhulu",
-      "contactNumber": "0589835167",
-      "homeAddress": "749 Gwala Field",
-      "idNumber": "5709271124200",
-      "gender": "Two-Spirit",
-      "relationship": "Uncle"
-    },
-    {
-      "name": "Kagiso",
-      "surname": "Lembede",
-      "contactNumber": "0433508964",
-      "homeAddress": "9448 Sanele Ridge",
-      "idNumber": "6904103772814",
-      "gender": "Bigender",
-      "relationship": "Nephew"
-    },
-    {
-      "name": "Bhekumbuso",
-      "surname": "Thumbeza",
-      "contactNumber": "0176171540",
-      "homeAddress": "71051 Dingiswayo Green",
-      "idNumber": "3901023343170",
-      "gender": "Male",
-      "relationship": "Brother"
-    },
-    {
-      "name": "Langa",
-      "surname": "Ndandali",
-      "contactNumber": "0579124082",
-      "homeAddress": "9614 Dumisani Forks",
-      "idNumber": "9002239288404",
-      "gender": "Transgender Female",
-      "relationship": "Friend"
-    },
-    {
-      "name": "Nkosingiphile",
-      "surname": "Thumbeza",
-      "contactNumber": "0858356937",
-      "homeAddress": "594 Nonyana Freeway",
-      "idNumber": "9207194708749",
-      "gender": "Genderfluid",
-      "relationship": "Brother"
-    }
-  ],
-  [
-    {
-      "name": "Bhekizizwe",
-      "surname": "Sothole",
-      "contactNumber": "0234234237",
-      "homeAddress": "55458 Bhengani Groves",
-      "idNumber": "7703122277567",
-      "gender": "Two-Spirit"
-    },
-    {
-      "name": "Musawenkosi",
-      "surname": "Sothole",
-      "contactNumber": "0724451219",
-      "homeAddress": "74069 Bafana Extension",
-      "idNumber": "9109172583592",
-      "gender": "Agender",
-      "relationship": "Husband"
-    },
-    {
-      "name": "Sinenhlanhla",
-      "surname": "Msibi",
-      "contactNumber": "0260024415",
-      "homeAddress": "344 Phiwokwakhe Light",
-      "idNumber": "5301218811332",
-      "gender": "Male",
-      "relationship": "Aunt"
-    },
-    {
-      "name": "Siphephelo",
-      "surname": "Sothole",
-      "contactNumber": "0194941098",
-      "homeAddress": "84464 Nyanda Harbor",
-      "idNumber": "4704033785717",
-      "gender": "Genderqueer",
-      "relationship": "Wife"
-    },
-    {
-      "name": "Phila",
-      "surname": "Sothole",
-      "contactNumber": "0413858720",
-      "homeAddress": "98293 Delazy Stravenue",
-      "idNumber": "8611038010341",
-      "gender": "Agender",
-      "relationship": "Mother"
-    }
-  ],
-  [
-    {
-      "name": "Sibongile",
-      "surname": "Lamula",
-      "contactNumber": "0156673528",
-      "homeAddress": "7747 Bayeni Stravenue",
-      "idNumber": "4005183437102",
-      "gender": "Non-Binary"
-    }
-  ],
-  [
-    {
-      "name": "Velaphi",
-      "surname": "Hlongwa",
-      "contactNumber": "0366985153",
-      "homeAddress": "621 Nkosiyabo Manor",
-      "idNumber": "9505260601076",
-      "gender": "Male"
-    },
-    {
-      "name": "Thadie",
-      "surname": "Hlongwa",
-      "contactNumber": "0382044589",
-      "homeAddress": "20897 Mthunzi Knoll",
-      "idNumber": "5302197229776",
-      "gender": "Other",
-      "relationship": "Wife"
-    },
     {
       "name": "Sindisiwe",
-      "surname": "Gabhezi",
-      "contactNumber": "0611431637",
-      "homeAddress": "6314 Lwandle Curve",
-      "idNumber": "9307202141492",
-      "gender": "Genderqueer",
-      "relationship": "Partner"
+      "surname": "Siyaya",
+      "contactNumber": "0465312499",
+      "homeAddress": "94470 Ncusi Course",
+      "idNumber": "4810039751584",
+      "gender": "Male"
     },
     {
-      "name": "Khethiwe",
-      "surname": "Hlongwa",
-      "contactNumber": "0183605396",
-      "homeAddress": "691 Isisa Point",
-      "idNumber": "4910234660099",
-      "gender": "Genderfluid",
-      "relationship": "Wife"
-    },
-    {
-      "name": "Siphephelo",
-      "surname": "Lamula",
-      "contactNumber": "0550902104",
-      "homeAddress": "96783 Shezi Mission",
-      "idNumber": "4609207800234",
-      "gender": "Male",
+      "name": "Bangizwe",
+      "surname": "Msibi",
+      "contactNumber": "0166668275",
+      "homeAddress": "124 Sizakele Shoals",
+      "idNumber": "9001269215366",
+      "gender": "Pangender",
       "relationship": "Friend"
     },
     {
-      "name": "Mpumelelo",
-      "surname": "Mehloluhlaza",
-      "contactNumber": "0211539678",
-      "homeAddress": "575 Phila Fields",
-      "idNumber": "7306062530972",
+      "name": "Funani",
+      "surname": "Maduma",
+      "contactNumber": "0121940588",
+      "homeAddress": "723 Ngema Extensions",
+      "idNumber": "8006151673268",
       "gender": "Transgender Female",
-      "relationship": "Nephew"
-    },
-    {
-      "name": "Shaka",
-      "surname": "Hlongwa",
-      "contactNumber": "0236556551",
-      "homeAddress": "83186 Mbatha Park",
-      "idNumber": "8310102998027",
-      "gender": "Female",
-      "relationship": "Mother"
-    }
-  ],
-  [
-    {
-      "name": "Shaka",
-      "surname": "Radebe",
-      "contactNumber": "0515157071",
-      "homeAddress": "34658 Cebekhulu Mills",
-      "idNumber": "8408203700618",
-      "gender": "Two-Spirit"
-    },
-    {
-      "name": "Nandi",
-      "surname": "Sithuli",
-      "contactNumber": "0871145903",
-      "homeAddress": "3200 Lwandle Mount",
-      "idNumber": "8903162815552",
-      "gender": "Genderqueer",
-      "relationship": "Niece"
-    },
-    {
-      "name": "Inyoni",
-      "surname": "Mfumu",
-      "contactNumber": "0146190606",
-      "homeAddress": "199 Delazy Canyon",
-      "idNumber": "3811050771447",
-      "gender": "Male",
       "relationship": "Grandmother"
-    },
-    {
-      "name": "Nonkululeko",
-      "surname": "Mfumu",
-      "contactNumber": "0174578807",
-      "homeAddress": "91151 Thabisa Shoal",
-      "idNumber": "9711096293360",
-      "gender": "Transgender Male",
-      "relationship": "Grandfather"
-    },
-    {
-      "name": "Thulani",
-      "surname": "Sokhela",
-      "contactNumber": "0652863414",
-      "homeAddress": "9200 Thusi Mission",
-      "idNumber": "3405155013141",
-      "gender": "Two-Spirit",
-      "relationship": "Grandson"
     }
   ],
   [
     {
-      "name": "Msizi",
-      "surname": "Ndandali",
-      "contactNumber": "0335236074",
-      "homeAddress": "59496 Duduzile Heights",
-      "idNumber": "3709209797280",
+      "name": "Velaphi",
+      "surname": "Fuze",
+      "contactNumber": "0161137490",
+      "homeAddress": "40627 Bengu Union",
+      "idNumber": "9603197653502",
+      "gender": "Genderfluid"
+    }
+  ],
+  [
+    {
+      "name": "Ulwazi",
+      "surname": "Cebekhulu",
+      "contactNumber": "0160194657",
+      "homeAddress": "418 Ncusi Manors",
+      "idNumber": "9807262892868",
       "gender": "Other"
     },
     {
-      "name": "Gatsha",
-      "surname": "Nzimande",
-      "contactNumber": "0482774782",
-      "homeAddress": "9365 Shaka Greens",
-      "idNumber": "4903097870351",
-      "gender": "Genderqueer",
+      "name": "Ndondoloza",
+      "surname": "Thoyana",
+      "contactNumber": "0146809813",
+      "homeAddress": "152 Mfeka Knolls",
+      "idNumber": "3402079162143",
+      "gender": "Agender",
+      "relationship": "Partner"
+    },
+    {
+      "name": "Ntombizodwa",
+      "surname": "Musi",
+      "contactNumber": "0576756204",
+      "homeAddress": "695 Nzimande Key",
+      "idNumber": "7112102099407",
+      "gender": "Two-Spirit",
       "relationship": "Granddaughter"
     },
     {
-      "name": "Velaphi",
-      "surname": "Mfeka",
-      "contactNumber": "0991884522",
-      "homeAddress": "56695 Sithuli Camp",
-      "idNumber": "3902181823983",
-      "gender": "Male",
-      "relationship": "Partner"
+      "name": "Philani",
+      "surname": "Mtolo",
+      "contactNumber": "0891268864",
+      "homeAddress": "406 Sithuli Haven",
+      "idNumber": "3311159727954",
+      "gender": "Transgender Female",
+      "relationship": "Niece"
     },
-    {
-      "name": "Thamsanqa",
-      "surname": "Nyanda",
-      "contactNumber": "0857078976",
-      "homeAddress": "19601 Mthethwa Bypass",
-      "idNumber": "3904018417987",
-      "gender": "Bigender",
-      "relationship": "Nephew"
-    }
-  ],
-  [
-    {
-      "name": "Nofoto",
-      "surname": "Hlongwa",
-      "contactNumber": "0414619876",
-      "homeAddress": "625 Sibongile Mount",
-      "idNumber": "8701097786611",
-      "gender": "Transgender Male"
-    },
-    {
-      "name": "Nonjabulo",
-      "surname": "Thusi",
-      "contactNumber": "0220620350",
-      "homeAddress": "433 Sfiso Lakes",
-      "idNumber": "3105169530813",
-      "gender": "Genderfluid",
-      "relationship": "Nephew"
-    },
-    {
-      "name": "Bhekumbuso",
-      "surname": "Mthethwa",
-      "contactNumber": "0254520574",
-      "homeAddress": "259 Bhekizizwe Curve",
-      "idNumber": "5107209933868",
-      "gender": "Transgender Male",
-      "relationship": "Nephew"
-    }
-  ],
-  [
-    {
-      "name": "Siphiwe",
-      "surname": "Biyela",
-      "contactNumber": "0297760344",
-      "homeAddress": "619 Liyana Spur",
-      "idNumber": "6201218206559",
-      "gender": "Bigender"
-    },
-    {
-      "name": "Yibanathi",
-      "surname": "Biyela",
-      "contactNumber": "0146651491",
-      "homeAddress": "999 Mhambi Forge",
-      "idNumber": "7610087069806",
-      "gender": "Agender",
-      "relationship": "Wife"
-    },
-    {
-      "name": "Nkosinhle",
-      "surname": "Biyela",
-      "contactNumber": "0534614712",
-      "homeAddress": "33323 Buthelezi Key",
-      "idNumber": "5502098765681",
-      "gender": "Genderqueer",
-      "relationship": "Father"
-    }
-  ],
-  [
-    {
-      "name": "Funani",
-      "surname": "Thumbeza",
-      "contactNumber": "0334760220",
-      "homeAddress": "873 Sithembiso Brook",
-      "idNumber": "8404015682645",
-      "gender": "Female"
-    },
-    {
-      "name": "Linda",
-      "surname": "Thumbeza",
-      "contactNumber": "0620635036",
-      "homeAddress": "78409 Vezi Junction",
-      "idNumber": "4002160375697",
-      "gender": "Genderfluid",
-      "relationship": "Son"
-    }
-  ],
-  [
-    {
-      "name": "Phila",
-      "surname": "Moseley",
-      "contactNumber": "0542495777",
-      "homeAddress": "849 Vezi Stream",
-      "idNumber": "9908213294991",
-      "gender": "Bigender"
-    },
-    {
-      "name": "Nkosinhle",
-      "surname": "Sibiya",
-      "contactNumber": "0424572298",
-      "homeAddress": "5101 Thando Fork",
-      "idNumber": "6802053216071",
-      "gender": "Female",
-      "relationship": "Uncle"
-    },
-    {
-      "name": "Uluthando",
-      "surname": "Magoza",
-      "contactNumber": "0866655771",
-      "homeAddress": "5443 Ngubane Wells",
-      "idNumber": "5006057238189",
-      "gender": "Two-Spirit",
-      "relationship": "Grandson"
-    },
-    {
-      "name": "Shaka",
-      "surname": "Moseley",
-      "contactNumber": "0573688875",
-      "homeAddress": "4513 Thamsanqa Valley",
-      "idNumber": "5009132561798",
-      "gender": "Transgender Male",
-      "relationship": "Son"
-    }
-  ],
-  [
-    {
-      "name": "Uluthando",
-      "surname": "Mavundla",
-      "contactNumber": "0338413436",
-      "homeAddress": "8242 Dhlomo Flat",
-      "idNumber": "4912167848101",
-      "gender": "Two-Spirit"
-    },
-    {
-      "name": "Kgabu",
-      "surname": "Mavundla",
-      "contactNumber": "0252528495",
-      "homeAddress": "3255 Velaphi Station",
-      "idNumber": "8306141873162",
-      "gender": "Other",
-      "relationship": "Husband"
-    },
-    {
-      "name": "Lungelo",
-      "surname": "Mavundla",
-      "contactNumber": "0557025819",
-      "homeAddress": "4962 Thusi Course",
-      "idNumber": "8301261703392",
-      "gender": "Other",
-      "relationship": "Son"
-    },
-    {
-      "name": "Linda",
-      "surname": "Gama",
-      "contactNumber": "0836549861",
-      "homeAddress": "803 Buthelezi Parkway",
-      "idNumber": "6407086050651",
-      "gender": "Transgender Male",
-      "relationship": "Grandmother"
-    },
-    {
-      "name": "Sifiso",
-      "surname": "Dlamini",
-      "contactNumber": "0455893745",
-      "homeAddress": "495 Bhengu Neck",
-      "idNumber": "9106120884801",
-      "gender": "Pangender",
-      "relationship": "Partner"
-    },
-    {
-      "name": "Nonjabulo",
-      "surname": "Wosiyane",
-      "contactNumber": "0171086653",
-      "homeAddress": "3136 Bafana Burg",
-      "idNumber": "7204258107545",
-      "gender": "Other",
-      "relationship": "Grandmother"
-    },
-    {
-      "name": "Fanyana",
-      "surname": "Shezi",
-      "contactNumber": "0874547490",
-      "homeAddress": "83784 Vezi Shores",
-      "idNumber": "8512268012152",
-      "gender": "Pangender",
-      "relationship": "Friend"
-    }
-  ],
-  [
     {
       "name": "Mpumelelo",
-      "surname": "Hlongwa",
-      "contactNumber": "0716031371",
-      "homeAddress": "4582 Delazy Union",
-      "idNumber": "4901123108809",
-      "gender": "Transgender Male"
-    },
-    {
-      "name": "Nkanyezi",
-      "surname": "Hlongwa",
-      "contactNumber": "0564878495",
-      "homeAddress": "71352 Thoyana Stravenue",
-      "idNumber": "8110031644842",
-      "gender": "Transgender Female",
-      "relationship": "Mother"
+      "surname": "Bhuyeni",
+      "contactNumber": "0165449711",
+      "homeAddress": "2066 Shezi Tunnel",
+      "idNumber": "9409140216581",
+      "gender": "Genderqueer",
+      "relationship": "Niece"
     }
   ],
   [
     {
-      "name": "Maphikelela",
-      "surname": "Msibi",
-      "contactNumber": "0433519831",
-      "homeAddress": "62030 Gumede Lights",
-      "idNumber": "8909089229654",
-      "gender": "Two-Spirit"
+      "name": "Thamsanqa",
+      "surname": "Ngcolosi",
+      "contactNumber": "0748431763",
+      "homeAddress": "3660 Sipho Brook",
+      "idNumber": "3112187769172",
+      "gender": "Pangender"
     },
     {
-      "name": "Bafana",
-      "surname": "Vezi",
-      "contactNumber": "0394445527",
-      "homeAddress": "741 Mavundla Unions",
-      "idNumber": "6402245737839",
-      "gender": "Pangender",
+      "name": "Ayanda",
+      "surname": "Nomvethe",
+      "contactNumber": "0115928952",
+      "homeAddress": "50598 Mkhatshwa Park",
+      "idNumber": "9705256791140",
+      "gender": "Bigender",
       "relationship": "Cousin"
-    },
-    {
-      "name": "Ndondoloza",
-      "surname": "Moseley",
-      "contactNumber": "0562919807",
-      "homeAddress": "72010 Musawenkosi Trace",
-      "idNumber": "8202076060624",
-      "gender": "Transgender Female",
-      "relationship": "Grandfather"
-    },
-    {
-      "name": "Nonkululeko",
-      "surname": "Malinga",
-      "contactNumber": "0163169416",
-      "homeAddress": "691 Duduzile Canyon",
-      "idNumber": "6601066088057",
-      "gender": "Genderfluid",
-      "relationship": "Granddaughter"
-    },
-    {
-      "name": "Nkosenye",
-      "surname": "Ngwazi",
-      "contactNumber": "0496386826",
-      "homeAddress": "6933 Nomvula Way",
-      "idNumber": "9509136537950",
-      "gender": "Non-Binary",
-      "relationship": "Partner"
-    },
-    {
-      "name": "Shaka",
-      "surname": "Ntanzi",
-      "contactNumber": "0366071371",
-      "homeAddress": "4060 Vusumuzi Avenue",
-      "idNumber": "6401051798414",
-      "gender": "Genderqueer",
-      "relationship": "Cousin"
-    },
-    {
-      "name": "Yibanathi",
-      "surname": "Msibi",
-      "contactNumber": "0984871965",
-      "homeAddress": "59799 Bengu Burg",
-      "idNumber": "6809182202124",
-      "gender": "Genderqueer",
-      "relationship": "Husband"
-    },
-    {
-      "name": "Nhlakanipho",
-      "surname": "Khumalo",
-      "contactNumber": "0647423909",
-      "homeAddress": "54568 Nofoto Burg",
-      "idNumber": "4011042123099",
-      "gender": "Transgender Female",
-      "relationship": "Friend"
-    },
-    {
-      "name": "Vusumuzi",
-      "surname": "Ndandali",
-      "contactNumber": "0621208259",
-      "homeAddress": "524 Sfiso Route",
-      "idNumber": "4304034080187",
-      "gender": "Genderfluid",
-      "relationship": "Friend"
-    }
-  ],
-  [
-    {
-      "name": "Nkosenye",
-      "surname": "Ngubane",
-      "contactNumber": "0511990681",
-      "homeAddress": "75485 Gabhezi Route",
-      "idNumber": "4806052689466",
-      "gender": "Female"
-    },
-    {
-      "name": "Ntokozo",
-      "surname": "Khumalo",
-      "contactNumber": "0399881234",
-      "homeAddress": "55925 Biyela Well",
-      "idNumber": "7211117511007",
-      "gender": "Other",
-      "relationship": "Uncle"
-    },
-    {
-      "name": "Lwandle",
-      "surname": "Maphisa",
-      "contactNumber": "0422519505",
-      "homeAddress": "16017 Mqwebu Ridges",
-      "idNumber": "4608108022799",
-      "gender": "Female",
-      "relationship": "Grandmother"
-    },
-    {
-      "name": "Msizi",
-      "surname": "Ngubane",
-      "contactNumber": "0820451467",
-      "homeAddress": "436 Dumisani Canyon",
-      "idNumber": "3310099124176",
-      "gender": "Pangender",
-      "relationship": "Mother"
-    },
-    {
-      "name": "Ndondoloza",
-      "surname": "Ngubane",
-      "contactNumber": "0826147369",
-      "homeAddress": "232 Phila Ford",
-      "idNumber": "6207151950178",
-      "gender": "Agender",
-      "relationship": "Brother"
-    },
-    {
-      "name": "Sifiso",
-      "surname": "Dlamini",
-      "contactNumber": "0630367478",
-      "homeAddress": "65917 Phila Forest",
-      "idNumber": "9101261947714",
-      "gender": "Genderfluid",
-      "relationship": "Uncle"
     },
     {
       "name": "Nkosiyabo",
-      "surname": "Mabhida",
-      "contactNumber": "0641387289",
-      "homeAddress": "6340 Mhambi Motorway",
-      "idNumber": "6303074096967",
-      "gender": "Agender",
-      "relationship": "Nephew"
-    },
-    {
-      "name": "Zanele",
-      "surname": "Ngubane",
-      "contactNumber": "0477296074",
-      "homeAddress": "5023 Ntombizodwa Parks",
-      "idNumber": "9506161344591",
-      "gender": "Genderfluid",
-      "relationship": "Wife"
-    }
-  ],
-  [
-    {
-      "name": "Mhambi",
-      "surname": "Ndandali",
-      "contactNumber": "0902727486",
-      "homeAddress": "88716 Mandla Run",
-      "idNumber": "7811080295840",
-      "gender": "Male"
-    },
-    {
-      "name": "Ndleleni",
-      "surname": "Ndandali",
-      "contactNumber": "0532100210",
-      "homeAddress": "47330 Thusi Rapids",
-      "idNumber": "3510193732828",
-      "gender": "Pangender",
-      "relationship": "Sister"
-    },
-    {
-      "name": "Lukhona",
-      "surname": "Hlongwa",
-      "contactNumber": "0636820125",
-      "homeAddress": "5827 Thando Lane",
-      "idNumber": "3212224054527",
-      "gender": "Other",
-      "relationship": "Grandmother"
-    },
-    {
-      "name": "Siphiwe",
-      "surname": "Dlamini",
-      "contactNumber": "0867527035",
-      "homeAddress": "10007 Musi Stravenue",
-      "idNumber": "3905110502900",
-      "gender": "Agender",
-      "relationship": "Granddaughter"
-    },
-    {
-      "name": "Zenzele",
-      "surname": "Nonyana",
-      "contactNumber": "0356735610",
-      "homeAddress": "4950 Nonjabulo Crest",
-      "idNumber": "7908096531573",
+      "surname": "Ngcolosi",
+      "contactNumber": "0519448421",
+      "homeAddress": "81996 Sizakele Point",
+      "idNumber": "7804101053210",
       "gender": "Non-Binary",
-      "relationship": "Cousin"
+      "relationship": "Son"
     }
   ],
   [
     {
-      "name": "Sithembiso",
-      "surname": "Zuma",
-      "contactNumber": "0319978673",
-      "homeAddress": "147 Gumede Heights",
-      "idNumber": "8410096905332",
-      "gender": "Pangender"
-    },
-    {
-      "name": "Velaphi",
-      "surname": "Vezi",
-      "contactNumber": "0428094325",
-      "homeAddress": "448 Mthembu Cape",
-      "idNumber": "9210278803556",
-      "gender": "Bigender",
-      "relationship": "Cousin"
-    },
-    {
-      "name": "Fanyana",
-      "surname": "Bhengani",
-      "contactNumber": "0170348468",
-      "homeAddress": "12912 Amahle Spring",
-      "idNumber": "9907177377388",
-      "gender": "Female",
-      "relationship": "Granddaughter"
-    },
-    {
-      "name": "Ayize",
-      "surname": "Bhembe",
-      "contactNumber": "0645150840",
-      "homeAddress": "7821 Mthembu Place",
-      "idNumber": "3008208898659",
-      "gender": "Transgender Female",
-      "relationship": "Partner"
-    },
-    {
-      "name": "Mbalienhle",
-      "surname": "Zuma",
-      "contactNumber": "0141769193",
-      "homeAddress": "36260 Zungu Curve",
-      "idNumber": "6502261954420",
-      "gender": "Transgender Female",
-      "relationship": "Sister"
-    },
-    {
-      "name": "Sizani",
-      "surname": "Mgenge",
-      "contactNumber": "0557377514",
-      "homeAddress": "37896 Langa Dam",
-      "idNumber": "9210042633117",
-      "gender": "Pangender",
-      "relationship": "Friend"
-    },
-    {
-      "name": "Mpilo",
-      "surname": "Maphisa",
-      "contactNumber": "0428988851",
-      "homeAddress": "42345 Mtolo Village",
-      "idNumber": "3812065410156",
-      "gender": "Male",
-      "relationship": "Grandfather"
-    },
-    {
-      "name": "Kgabu",
-      "surname": "Maphisa",
-      "contactNumber": "0625963856",
-      "homeAddress": "936 Nolwazi Crest",
-      "idNumber": "7702042946975",
-      "gender": "Bigender",
-      "relationship": "Grandson"
-    },
-    {
-      "name": "Sibongile",
-      "surname": "Mfumu",
-      "contactNumber": "0239273350",
-      "homeAddress": "8843 Kagiso Pike",
-      "idNumber": "6404091531857",
-      "gender": "Agender",
-      "relationship": "Grandmother"
-    }
-  ],
-  [
-    {
-      "name": "Sfiso",
-      "surname": "Mfeka",
-      "contactNumber": "0603869865",
-      "homeAddress": "43975 Cebekhulu Spring",
-      "idNumber": "5208279059028",
-      "gender": "Agender"
-    },
-    {
-      "name": "Hlengiwe",
-      "surname": "Bhengani",
-      "contactNumber": "0214021057",
-      "homeAddress": "622 Sothole Shoals",
-      "idNumber": "5208165400792",
-      "gender": "Non-Binary",
-      "relationship": "Aunt"
-    },
-    {
-      "name": "Siphephelo",
-      "surname": "Kunene",
-      "contactNumber": "0368078410",
-      "homeAddress": "16314 Mehloluhlaza Mall",
-      "idNumber": "4905222677389",
-      "gender": "Bigender",
-      "relationship": "Cousin"
-    },
-    {
-      "name": "Thando",
-      "surname": "Siwele",
-      "contactNumber": "0452327395",
-      "homeAddress": "323 Lwandle Rapids",
-      "idNumber": "5006230518709",
-      "gender": "Transgender Male",
-      "relationship": "Granddaughter"
-    },
-    {
-      "name": "Sithembiso",
-      "surname": "Gwala",
-      "contactNumber": "0340568535",
-      "homeAddress": "82246 Zondi Park",
-      "idNumber": "9406112368686",
-      "gender": "Male",
-      "relationship": "Aunt"
-    },
-    {
-      "name": "Mpumelelo",
-      "surname": "Siwele",
-      "contactNumber": "0882968948",
-      "homeAddress": "580 Funani Burg",
-      "idNumber": "8607045515434",
-      "gender": "Male",
-      "relationship": "Partner"
-    },
-    {
-      "name": "Bhekumbuso",
-      "surname": "Nzimande",
-      "contactNumber": "0560955048",
-      "homeAddress": "826 Gwacela Pine",
-      "idNumber": "8501208886963",
-      "gender": "Transgender Male",
-      "relationship": "Uncle"
-    },
-    {
-      "name": "Sizakele",
-      "surname": "Chiliza",
-      "contactNumber": "0322773701",
-      "homeAddress": "82120 Ngcolosi Haven",
-      "idNumber": "5403081955822",
-      "gender": "Other",
-      "relationship": "Nephew"
-    },
-    {
-      "name": "Mandla",
-      "surname": "Gwala",
-      "contactNumber": "0875851466",
-      "homeAddress": "1139 Zubane Wall",
-      "idNumber": "3207111682941",
-      "gender": "Female",
-      "relationship": "Cousin"
-    }
-  ],
-  [
-    {
-      "name": "Jabulile",
-      "surname": "Zondo",
-      "contactNumber": "0187223943",
-      "homeAddress": "79938 Thadie Underpass",
-      "idNumber": "3307146460389",
-      "gender": "Genderfluid"
-    },
-    {
-      "name": "Bhekizizwe",
-      "surname": "Ndandali",
-      "contactNumber": "0423719611",
-      "homeAddress": "97198 Zubane Springs",
-      "idNumber": "8201045184754",
-      "gender": "Transgender Female",
-      "relationship": "Grandfather"
-    },
-    {
-      "name": "Linda",
+      "name": "Sipho",
       "surname": "Mehloluhlaza",
-      "contactNumber": "0227565065",
-      "homeAddress": "98757 Ndondoloza Loop",
-      "idNumber": "8611213986407",
-      "gender": "Non-Binary",
-      "relationship": "Niece"
-    },
-    {
-      "name": "Mpumelelo",
-      "surname": "Ngema",
-      "contactNumber": "0152077242",
-      "homeAddress": "4780 Uluthando Brook",
-      "idNumber": "3501203037377",
-      "gender": "Other",
-      "relationship": "Grandfather"
-    },
-    {
-      "name": "Nhlakanipho",
-      "surname": "Zondo",
-      "contactNumber": "0331625326",
-      "homeAddress": "97909 Shezi Wall",
-      "idNumber": "6211132369100",
-      "gender": "Female",
-      "relationship": "Sister"
-    },
-    {
-      "name": "Buhle",
-      "surname": "Kunene",
-      "contactNumber": "0381340836",
-      "homeAddress": "89709 Mpilo Meadows",
-      "idNumber": "7206202227155",
-      "gender": "Agender",
-      "relationship": "Niece"
-    },
-    {
-      "name": "Uluthando",
-      "surname": "Zubane",
-      "contactNumber": "0881872476",
-      "homeAddress": "87341 Velaphi Hill",
-      "idNumber": "9509016480913",
-      "gender": "Male",
-      "relationship": "Nephew"
-    }
-  ],
-  [
-    {
-      "name": "Philani",
-      "surname": "Nomvethe",
-      "contactNumber": "0513839797",
-      "homeAddress": "9478 Thando Manor",
-      "idNumber": "3406265046646",
-      "gender": "Pangender"
-    },
-    {
-      "name": "Zanele",
-      "surname": "Nomvethe",
-      "contactNumber": "0858590204",
-      "homeAddress": "4725 Musawenkosi Drives",
-      "idNumber": "3903019610004",
-      "gender": "Other",
-      "relationship": "Son"
-    },
-    {
-      "name": "Jabulile",
-      "surname": "Mashinini",
-      "contactNumber": "0131217232",
-      "homeAddress": "143 Nofoto Isle",
-      "idNumber": "9509028063017",
-      "gender": "Female",
-      "relationship": "Nephew"
-    },
-    {
-      "name": "Amahle",
-      "surname": "Delazy",
-      "contactNumber": "0890729008",
-      "homeAddress": "8614 Thulisile Knolls",
-      "idNumber": "6409226951100",
-      "gender": "Genderfluid",
-      "relationship": "Partner"
-    },
-    {
-      "name": "Sfiso",
-      "surname": "Sithuli",
-      "contactNumber": "0528463311",
-      "homeAddress": "15860 Mabhida Alley",
-      "idNumber": "7201176265831",
-      "gender": "Female",
-      "relationship": "Aunt"
-    },
-    {
-      "name": "Bonginkosi",
-      "surname": "Nomvethe",
-      "contactNumber": "0862084134",
-      "homeAddress": "201 Thobeka Tunnel",
-      "idNumber": "5908025434476",
-      "gender": "Two-Spirit",
-      "relationship": "Son"
-    }
-  ],
-  [
-    {
-      "name": "Mandla",
-      "surname": "Zubane",
-      "contactNumber": "0530576489",
-      "homeAddress": "9229 Gwala Streets",
-      "idNumber": "3307264867660",
-      "gender": "Non-Binary"
-    },
-    {
-      "name": "Sfiso",
-      "surname": "Nonyana",
-      "contactNumber": "0328841451",
-      "homeAddress": "94591 Linda Lane",
-      "idNumber": "5105039989364",
-      "gender": "Genderfluid",
-      "relationship": "Cousin"
-    },
-    {
-      "name": "Buhle",
-      "surname": "Zubane",
-      "contactNumber": "0141184053",
-      "homeAddress": "88674 Kunene Isle",
-      "idNumber": "7601142151378",
-      "gender": "Genderqueer",
-      "relationship": "Daughter"
-    },
-    {
-      "name": "Khulekani",
-      "surname": "Mthembu",
-      "contactNumber": "0618965629",
-      "homeAddress": "601 Gatsha Vista",
-      "idNumber": "6205168580781",
-      "gender": "Agender",
-      "relationship": "Granddaughter"
-    },
-    {
-      "name": "Thobeka",
-      "surname": "Zubane",
-      "contactNumber": "0838505273",
-      "homeAddress": "4635 Vusumuzi Locks",
-      "idNumber": "8610257693663",
-      "gender": "Pangender",
-      "relationship": "Brother"
-    },
-    {
-      "name": "Samukelisiwe",
-      "surname": "Zubane",
-      "contactNumber": "0351724385",
-      "homeAddress": "40285 Musi Villages",
-      "idNumber": "4208160957512",
-      "gender": "Transgender Female",
-      "relationship": "Sister"
-    },
-    {
-      "name": "Zenzele",
-      "surname": "Khumalo",
-      "contactNumber": "0840443567",
-      "homeAddress": "27807 Nonyana Expressway",
-      "idNumber": "6711271329446",
-      "gender": "Female",
-      "relationship": "Granddaughter"
-    },
-    {
-      "name": "Velaphi",
-      "surname": "Khawula",
-      "contactNumber": "0714314982",
-      "homeAddress": "771 Wosiyane Isle",
-      "idNumber": "7201131926399",
-      "gender": "Transgender Female",
-      "relationship": "Niece"
-    },
-    {
-      "name": "Khulekani",
-      "surname": "Zubane",
-      "contactNumber": "0589192853",
-      "homeAddress": "7286 Mfumu Crescent",
-      "idNumber": "6510253037617",
-      "gender": "Male",
-      "relationship": "Mother"
-    }
-  ],
-  [
-    {
-      "name": "Ntokozo",
-      "surname": "Shezi",
-      "contactNumber": "0321772733",
-      "homeAddress": "925 Mbalienhle Shoals",
-      "idNumber": "6206014926357",
-      "gender": "Agender"
-    }
-  ],
-  [
-    {
-      "name": "Mpilo",
-      "surname": "Gumede",
-      "contactNumber": "0439390623",
-      "homeAddress": "8337 Nolwazi Mountains",
-      "idNumber": "8107128749355",
-      "gender": "Two-Spirit"
-    },
-    {
-      "name": "Ayanda",
-      "surname": "Sondisa",
-      "contactNumber": "0225636833",
-      "homeAddress": "6943 Thumbeza Skyway",
-      "idNumber": "8105179544537",
-      "gender": "Non-Binary",
-      "relationship": "Grandfather"
-    },
-    {
-      "name": "Thabisa",
-      "surname": "Gumede",
-      "contactNumber": "0839920520",
-      "homeAddress": "1209 Ncusi Village",
-      "idNumber": "7105016892911",
-      "gender": "Bigender",
-      "relationship": "Daughter"
-    },
-    {
-      "name": "Bonginkosi",
-      "surname": "Gumede",
-      "contactNumber": "0129683905",
-      "homeAddress": "86537 Mfeka Throughway",
-      "idNumber": "7301180635438",
-      "gender": "Female",
-      "relationship": "Daughter"
-    },
-    {
-      "name": "Khethiwe",
-      "surname": "Siyaya",
-      "contactNumber": "0175754075",
-      "homeAddress": "48550 Nondlela Pines",
-      "idNumber": "4002018362151",
-      "gender": "Pangender",
-      "relationship": "Grandfather"
-    }
-  ],
-  [
-    {
-      "name": "Mpilo",
-      "surname": "Mfeka",
-      "contactNumber": "0467568199",
-      "homeAddress": "58040 Hlongwa Unions",
-      "idNumber": "3108067263422",
-      "gender": "Non-Binary"
-    },
-    {
-      "name": "Mpumelelo",
-      "surname": "Guliwe",
-      "contactNumber": "0386531266",
-      "homeAddress": "707 Sindisiwe Island",
-      "idNumber": "6812064777292",
-      "gender": "Transgender Male",
-      "relationship": "Partner"
-    },
-    {
-      "name": "Maphikelela",
-      "surname": "Gwala",
-      "contactNumber": "0412581483",
-      "homeAddress": "614 Mthethwa Greens",
-      "idNumber": "5207209903503",
-      "gender": "Transgender Male",
-      "relationship": "Friend"
-    },
-    {
-      "name": "Ayize",
-      "surname": "Dhlomo",
-      "contactNumber": "0528680324",
-      "homeAddress": "6201 Sfiso Lake",
-      "idNumber": "3102252649769",
-      "gender": "Genderfluid",
-      "relationship": "Cousin"
-    },
-    {
-      "name": "Nokuthula",
-      "surname": "Mbatha",
-      "contactNumber": "0607218555",
-      "homeAddress": "340 Themba Road",
-      "idNumber": "4709153126861",
-      "gender": "Other",
-      "relationship": "Friend"
-    },
-    {
-      "name": "Isisa",
-      "surname": "Mfeka",
-      "contactNumber": "0648038660",
-      "homeAddress": "82925 Gwacela Haven",
-      "idNumber": "5501184094570",
-      "gender": "Two-Spirit",
-      "relationship": "Daughter"
-    },
-    {
-      "name": "Nonhlanhla",
-      "surname": "Mfeka",
-      "contactNumber": "0612129150",
-      "homeAddress": "79322 Lembede Walk",
-      "idNumber": "3311253124409",
-      "gender": "Two-Spirit",
-      "relationship": "Daughter"
-    }
-  ],
-  [
-    {
-      "name": "Phiwokwakhe",
-      "surname": "Nonyana",
-      "contactNumber": "0651487659",
-      "homeAddress": "181 Shezi Grove",
-      "idNumber": "9611267130444",
-      "gender": "Female"
-    },
-    {
-      "name": "Duduzile",
-      "surname": "Nomvethe",
-      "contactNumber": "0848660837",
-      "homeAddress": "5965 Mthunzi Lights",
-      "idNumber": "8308262301607",
-      "gender": "Transgender Female",
-      "relationship": "Grandmother"
-    }
-  ],
-  [
-    {
-      "name": "Lerato",
-      "surname": "Zondi",
-      "contactNumber": "0844894708",
-      "homeAddress": "996 Vusumuzi Burg",
-      "idNumber": "8511165098755",
-      "gender": "Other"
-    }
-  ],
-  [
-    {
-      "name": "Anele",
-      "surname": "Khawula",
-      "contactNumber": "0243750195",
-      "homeAddress": "9910 Mashinini Spring",
-      "idNumber": "8812024260574",
-      "gender": "Transgender Male"
-    },
-    {
-      "name": "Jabulile",
-      "surname": "Bengu",
-      "contactNumber": "0835902102",
-      "homeAddress": "78571 Khulekani Hills",
-      "idNumber": "4710097541110",
-      "gender": "Transgender Male",
-      "relationship": "Friend"
-    },
-    {
-      "name": "Thadie",
-      "surname": "Khawula",
-      "contactNumber": "0735813181",
-      "homeAddress": "71849 Magoza Hollow",
-      "idNumber": "8409053784646",
-      "gender": "Transgender Female",
-      "relationship": "Daughter"
-    },
-    {
-      "name": "Thando",
-      "surname": "Mashinini",
-      "contactNumber": "0529674755",
-      "homeAddress": "58916 Khethiwe Expressway",
-      "idNumber": "9702043212355",
-      "gender": "Agender",
-      "relationship": "Grandson"
-    },
-    {
-      "name": "Vusumuzi",
-      "surname": "Dingiswayo",
-      "contactNumber": "0908956383",
-      "homeAddress": "4024 Sondisa Forge",
-      "idNumber": "3805120587118",
-      "gender": "Genderqueer",
-      "relationship": "Grandmother"
-    },
-    {
-      "name": "Isisa",
-      "surname": "Khawula",
-      "contactNumber": "0110657886",
-      "homeAddress": "903 Mbatha Pike",
-      "idNumber": "8208216584500",
-      "gender": "Agender",
-      "relationship": "Husband"
+      "contactNumber": "0439995229",
+      "homeAddress": "55457 Nozulu Garden",
+      "idNumber": "8507147529146",
+      "gender": "Genderfluid"
     },
     {
       "name": "Nofoto",
-      "surname": "Zubane",
-      "contactNumber": "0100434563",
-      "homeAddress": "77987 Ndondoloza Cove",
-      "idNumber": "8206267673391",
-      "gender": "Transgender Female",
-      "relationship": "Uncle"
-    },
-    {
-      "name": "Khulekani",
-      "surname": "Tshabalala",
-      "contactNumber": "0107126534",
-      "homeAddress": "335 Zuma Bypass",
-      "idNumber": "6602265021889",
-      "gender": "Transgender Male",
+      "surname": "Zondo",
+      "contactNumber": "0130142258",
+      "homeAddress": "8532 Mbende Place",
+      "idNumber": "5406094239382",
+      "gender": "Genderfluid",
       "relationship": "Niece"
     },
     {
       "name": "Kgabu",
-      "surname": "Khawula",
-      "contactNumber": "0899330624",
-      "homeAddress": "8555 Nokuthula Mission",
-      "idNumber": "4707086500552",
+      "surname": "Mehloluhlaza",
+      "contactNumber": "0842552153",
+      "homeAddress": "2675 Sanele Dale",
+      "idNumber": "4606217234042",
+      "gender": "Genderqueer",
+      "relationship": "Son"
+    },
+    {
+      "name": "Shaka",
+      "surname": "Mtolo",
+      "contactNumber": "0241519336",
+      "homeAddress": "85449 Nhleko View",
+      "idNumber": "3901068947429",
       "gender": "Male",
-      "relationship": "Brother"
-    }
-  ],
-  [
-    {
-      "name": "Mhambi",
-      "surname": "Mfeka",
-      "contactNumber": "0373384054",
-      "homeAddress": "930 Thabisa Key",
-      "idNumber": "4105268210909",
-      "gender": "Agender"
-    },
-    {
-      "name": "Musawenkosi",
-      "surname": "Mfeka",
-      "contactNumber": "0392768499",
-      "homeAddress": "71251 Nokuthula Route",
-      "idNumber": "9112031683467",
-      "gender": "Genderfluid",
-      "relationship": "Mother"
-    },
-    {
-      "name": "Funani",
-      "surname": "Gumede",
-      "contactNumber": "0255362675",
-      "homeAddress": "117 Msizi Estate",
-      "idNumber": "6811041621116",
-      "gender": "Transgender Female",
-      "relationship": "Partner"
-    },
-    {
-      "name": "Phila",
-      "surname": "Mfeka",
-      "contactNumber": "0891706155",
-      "homeAddress": "347 Ngubane Fields",
-      "idNumber": "8302108538923",
-      "gender": "Other",
-      "relationship": "Father"
-    },
-    {
-      "name": "Ayize",
-      "surname": "Mavundla",
-      "contactNumber": "0894485735",
-      "homeAddress": "559 Vezi Fields",
-      "idNumber": "6803170245530",
-      "gender": "Pangender",
-      "relationship": "Nephew"
-    },
-    {
-      "name": "Lukhona",
-      "surname": "Vilakazi",
-      "contactNumber": "0512155229",
-      "homeAddress": "498 Nofoto Ford",
-      "idNumber": "5807024700219",
-      "gender": "Other",
-      "relationship": "Niece"
-    },
-    {
-      "name": "Vusumuzi",
-      "surname": "Mfeka",
-      "contactNumber": "0494011971",
-      "homeAddress": "2406 Mandla Crescent",
-      "idNumber": "8602198097502",
-      "gender": "Other",
-      "relationship": "Father"
-    }
-  ],
-  [
-    {
-      "name": "Sizakele",
-      "surname": "Delazy",
-      "contactNumber": "0161037693",
-      "homeAddress": "6557 Nzimande Course",
-      "idNumber": "5401141480289",
-      "gender": "Non-Binary"
-    },
-    {
-      "name": "Nokuthula",
-      "surname": "Delazy",
-      "contactNumber": "0104979462",
-      "homeAddress": "617 Mbende River",
-      "idNumber": "6811185855068",
-      "gender": "Other",
-      "relationship": "Daughter"
-    },
-    {
-      "name": "Sithembiso",
-      "surname": "Sondisa",
-      "contactNumber": "0347317378",
-      "homeAddress": "83953 Hlongwa Cliffs",
-      "idNumber": "9312186229342",
-      "gender": "Other",
       "relationship": "Cousin"
     },
     {
-      "name": "Solomon",
-      "surname": "Mfumu",
-      "contactNumber": "0436423817",
-      "homeAddress": "1660 Langa Drives",
-      "idNumber": "5012169352008",
-      "gender": "Pangender",
-      "relationship": "Niece"
-    },
-    {
-      "name": "Liyana",
-      "surname": "Moseley",
-      "contactNumber": "0321658584",
-      "homeAddress": "631 Nhlakanipho Drives",
-      "idNumber": "5301148898617",
+      "name": "Thabisa",
+      "surname": "Nzimande",
+      "contactNumber": "0294396472",
+      "homeAddress": "291 Guliwe Harbor",
+      "idNumber": "8008116979385",
       "gender": "Agender",
-      "relationship": "Uncle"
+      "relationship": "Cousin"
     },
     {
-      "name": "Sinenhlanhla",
-      "surname": "Delazy",
-      "contactNumber": "0121410560",
-      "homeAddress": "93151 Mavundla Canyon",
-      "idNumber": "4104016406807",
-      "gender": "Genderqueer",
-      "relationship": "Daughter"
-    },
-    {
-      "name": "Nonjabulo",
-      "surname": "Ngwazi",
-      "contactNumber": "0493833400",
-      "homeAddress": "5099 Inyoni Grove",
-      "idNumber": "3103167249473",
-      "gender": "Female",
+      "name": "Nkanyezi",
+      "surname": "Cebekhulu",
+      "contactNumber": "0231797648",
+      "homeAddress": "540 Nozipho Parkways",
+      "idNumber": "6402166620710",
+      "gender": "Other",
       "relationship": "Grandmother"
+    },
+    {
+      "name": "Bangizwe",
+      "surname": "Thoyana",
+      "contactNumber": "0743553509",
+      "homeAddress": "481 Inyoni Cove",
+      "idNumber": "7408272476463",
+      "gender": "Genderqueer",
+      "relationship": "Friend"
+    },
+    {
+      "name": "Bhekimuzi",
+      "surname": "Radebe",
+      "contactNumber": "0853834599",
+      "homeAddress": "726 Ngwazi Throughway",
+      "idNumber": "5110170579724",
+      "gender": "Genderqueer",
+      "relationship": "Niece"
     }
   ],
   [
     {
-      "name": "Themba",
-      "surname": "Bayeni",
-      "contactNumber": "0631189198",
-      "homeAddress": "394 Duduzile Parkway",
-      "idNumber": "4502238231116",
-      "gender": "Genderfluid"
+      "name": "Maphikelela",
+      "surname": "Lembede",
+      "contactNumber": "0483533285",
+      "homeAddress": "303 Nokuthula Camp",
+      "idNumber": "6908244496435",
+      "gender": "Non-Binary"
     },
     {
-      "name": "Mandla",
-      "surname": "Bayeni",
-      "contactNumber": "0875789522",
-      "homeAddress": "762 Kunene Shoal",
-      "idNumber": "5207254515626",
-      "gender": "Bigender",
+      "name": "Bhekumbuso",
+      "surname": "Fuze",
+      "contactNumber": "0316408990",
+      "homeAddress": "564 Malinga Forges",
+      "idNumber": "4904271904463",
+      "gender": "Transgender Male",
+      "relationship": "Partner"
+    },
+    {
+      "name": "Philani",
+      "surname": "Mbuso",
+      "contactNumber": "0432079175",
+      "homeAddress": "282 Thabisa Forges",
+      "idNumber": "5806178392570",
+      "gender": "Pangender",
+      "relationship": "Grandmother"
+    },
+    {
+      "name": "Uluthando",
+      "surname": "Lembede",
+      "contactNumber": "0652371280",
+      "homeAddress": "29478 Sipho Path",
+      "idNumber": "6801274016103",
+      "gender": "Female",
+      "relationship": "Son"
+    },
+    {
+      "name": "Bhekizizwe",
+      "surname": "Nsele",
+      "contactNumber": "0435695681",
+      "homeAddress": "966 Samukelisiwe Mall",
+      "idNumber": "5406024258480",
+      "gender": "Agender",
+      "relationship": "Niece"
+    },
+    {
+      "name": "Nofoto",
+      "surname": "Lembede",
+      "contactNumber": "0175956836",
+      "homeAddress": "905 Mehloluhlaza Villages",
+      "idNumber": "9902143512155",
+      "gender": "Genderfluid",
       "relationship": "Husband"
     },
     {
-      "name": "Nonkululeko",
-      "surname": "Bayeni",
-      "contactNumber": "0528472500",
-      "homeAddress": "6901 Nondlela Harbors",
-      "idNumber": "7104112960605",
-      "gender": "Genderqueer",
-      "relationship": "Wife"
+      "name": "Gatsha",
+      "surname": "Lembede",
+      "contactNumber": "0547501926",
+      "homeAddress": "680 Seme Camp",
+      "idNumber": "6903210654253",
+      "gender": "Transgender Male",
+      "relationship": "Daughter"
+    },
+    {
+      "name": "Siyanda",
+      "surname": "Mtolo",
+      "contactNumber": "0580338629",
+      "homeAddress": "701 Uluthando Mill",
+      "idNumber": "4910144037527",
+      "gender": "Female",
+      "relationship": "Grandson"
+    },
+    {
+      "name": "Fanyana",
+      "surname": "Cele",
+      "contactNumber": "0535772283",
+      "homeAddress": "3240 Thulani Brook",
+      "idNumber": "3208079319637",
+      "gender": "Male",
+      "relationship": "Grandfather"
+    }
+  ],
+  [
+    {
+      "name": "Thulisile",
+      "surname": "Mashinini",
+      "contactNumber": "0577473191",
+      "homeAddress": "703 Nkosingiphile Light",
+      "idNumber": "9502201119426",
+      "gender": "Non-Binary"
+    },
+    {
+      "name": "Liyana",
+      "surname": "Ngema",
+      "contactNumber": "0223576074",
+      "homeAddress": "1807 Khethiwe Island",
+      "idNumber": "6101096636944",
+      "gender": "Transgender Female",
+      "relationship": "Grandfather"
+    },
+    {
+      "name": "Shaka",
+      "surname": "Dlamini",
+      "contactNumber": "0984453361",
+      "homeAddress": "335 Nkosinhle Row",
+      "idNumber": "3911123755072",
+      "gender": "Non-Binary",
+      "relationship": "Cousin"
     },
     {
       "name": "Lwandle",
-      "surname": "Bayeni",
-      "contactNumber": "0584041194",
-      "homeAddress": "3041 Cele Gateway",
-      "idNumber": "7401153571678",
+      "surname": "Mashinini",
+      "contactNumber": "0749029082",
+      "homeAddress": "88651 Sibiya Locks",
+      "idNumber": "6506195430618",
       "gender": "Bigender",
       "relationship": "Son"
     },
     {
-      "name": "Solomon",
-      "surname": "Zondi",
-      "contactNumber": "0909873733",
-      "homeAddress": "79254 Ndleleni Branch",
-      "idNumber": "9509212314063",
+      "name": "Mhambi",
+      "surname": "Mthembu",
+      "contactNumber": "0413629807",
+      "homeAddress": "4945 Lwandle Pass",
+      "idNumber": "8404197979532",
       "gender": "Non-Binary",
-      "relationship": "Nephew"
-    },
-    {
-      "name": "Khanyisile",
-      "surname": "Bayeni",
-      "contactNumber": "0609382794",
-      "homeAddress": "8883 Thabisa Overpass",
-      "idNumber": "8403113270522",
-      "gender": "Genderqueer",
-      "relationship": "Mother"
+      "relationship": "Aunt"
     }
   ],
   [
     {
-      "name": "Thadie",
-      "surname": "Cebekhulu",
-      "contactNumber": "0642527207",
-      "homeAddress": "271 Siphiwe Pike",
-      "idNumber": "8606244368026",
-      "gender": "Transgender Female"
+      "name": "Buhle",
+      "surname": "Bhembe",
+      "contactNumber": "0603108170",
+      "homeAddress": "4842 Nomvethe Junctions",
+      "idNumber": "9908213531832",
+      "gender": "Agender"
     },
     {
-      "name": "Jabulile",
-      "surname": "Nzimande",
-      "contactNumber": "0548553150",
-      "homeAddress": "15426 Siwele Brook",
-      "idNumber": "6002029655089",
-      "gender": "Agender",
-      "relationship": "Granddaughter"
-    },
-    {
-      "name": "Philani",
-      "surname": "Mabhida",
-      "contactNumber": "0107426142",
-      "homeAddress": "2522 Dube Ville",
-      "idNumber": "4406230209675",
-      "gender": "Genderfluid",
-      "relationship": "Friend"
-    },
-    {
-      "name": "Kagiso",
-      "surname": "Mabizela",
-      "contactNumber": "0397188320",
-      "homeAddress": "1514 Nonhlanhla Ridge",
-      "idNumber": "4603012798345",
-      "gender": "Genderfluid",
-      "relationship": "Uncle"
-    },
-    {
-      "name": "Yibanathi",
-      "surname": "Cebekhulu",
-      "contactNumber": "0107081443",
-      "homeAddress": "193 Mavundla Radial",
-      "idNumber": "5503200875406",
-      "gender": "Male",
+      "name": "Sinenhlanhla",
+      "surname": "Bhembe",
+      "contactNumber": "0182347770",
+      "homeAddress": "50642 Biyela Throughway",
+      "idNumber": "7906185561810",
+      "gender": "Two-Spirit",
       "relationship": "Mother"
     },
     {
-      "name": "Sithembiso",
-      "surname": "Cebekhulu",
-      "contactNumber": "0654705484",
-      "homeAddress": "957 Zondi Junctions",
-      "idNumber": "5701189857429",
-      "gender": "Genderfluid",
-      "relationship": "Mother"
-    },
-    {
-      "name": "Philani",
-      "surname": "Cebekhulu",
-      "contactNumber": "0185192504",
-      "homeAddress": "40800 Sondisa Mount",
-      "idNumber": "9403048136464",
-      "gender": "Agender",
-      "relationship": "Daughter"
-    },
-    {
-      "name": "Nokuthula",
-      "surname": "Mkhatshwa",
-      "contactNumber": "0641644824",
-      "homeAddress": "783 Dingiswayo Manor",
-      "idNumber": "3708212991863",
-      "gender": "Transgender Female",
-      "relationship": "Grandson"
-    },
-    {
-      "name": "Sithembiso",
-      "surname": "Cebekhulu",
-      "contactNumber": "0138941540",
-      "homeAddress": "4281 Malinga Place",
-      "idNumber": "3504098316759",
-      "gender": "Genderqueer",
-      "relationship": "Husband"
-    }
-  ],
-  [
-    {
-      "name": "Khanyisile",
-      "surname": "Gwacela",
-      "contactNumber": "0310812464",
-      "homeAddress": "82557 Zungu Ways",
-      "idNumber": "8602070791103",
-      "gender": "Female"
-    },
-    {
-      "name": "Sifiso",
-      "surname": "Nomvethe",
-      "contactNumber": "0831382160",
-      "homeAddress": "5054 Nzimande Hollow",
-      "idNumber": "9605011384268",
+      "name": "Nkosenye",
+      "surname": "Bhembe",
+      "contactNumber": "0117824782",
+      "homeAddress": "2019 Mabhida Club",
+      "idNumber": "3406123427622",
       "gender": "Other",
-      "relationship": "Granddaughter"
-    }
-  ],
-  [
-    {
-      "name": "Nonkululeko",
-      "surname": "Wosiyane",
-      "contactNumber": "0157135547",
-      "homeAddress": "822 Dumisani Creek",
-      "idNumber": "7702124949153",
-      "gender": "Male"
+      "relationship": "Father"
     },
     {
-      "name": "Khanyisile",
-      "surname": "Delazy",
-      "contactNumber": "0445143750",
-      "homeAddress": "962 Lungelo Lakes",
-      "idNumber": "8611169732646",
-      "gender": "Bigender",
-      "relationship": "Partner"
-    },
-    {
-      "name": "Bafana",
-      "surname": "Chiliza",
-      "contactNumber": "0153357812",
-      "homeAddress": "28300 Luthuli Track",
-      "idNumber": "6503259350312",
+      "name": "Mhambi",
+      "surname": "Zungu",
+      "contactNumber": "0609313717",
+      "homeAddress": "579 Dlamini Island",
+      "idNumber": "9706090570150",
       "gender": "Genderqueer",
-      "relationship": "Grandmother"
+      "relationship": "Grandfather"
     },
     {
-      "name": "Thabisa",
-      "surname": "Wosiyane",
-      "contactNumber": "0624277021",
-      "homeAddress": "254 Mfeka Neck",
-      "idNumber": "9006181365761",
-      "gender": "Genderfluid",
-      "relationship": "Daughter"
+      "name": "Sinenhlanhla",
+      "surname": "Msibi",
+      "contactNumber": "0395548060",
+      "homeAddress": "2376 Luthuli Shoals",
+      "idNumber": "8309263752803",
+      "gender": "Male",
+      "relationship": "Grandfather"
     },
     {
-      "name": "Amahle",
-      "surname": "Wosiyane",
-      "contactNumber": "0179783709",
-      "homeAddress": "320 Mthunzi Views",
-      "idNumber": "4801188706409",
+      "name": "Themba",
+      "surname": "Bhembe",
+      "contactNumber": "0841919554",
+      "homeAddress": "4479 Nhlakanipho Crossroad",
+      "idNumber": "3809095640594",
       "gender": "Transgender Female",
       "relationship": "Wife"
     },
     {
-      "name": "Thando",
-      "surname": "Wosiyane",
-      "contactNumber": "0312317603",
-      "homeAddress": "26914 Sithuli Shoal",
-      "idNumber": "6803037837480",
-      "gender": "Agender",
-      "relationship": "Mother"
-    },
-    {
-      "name": "Lerato",
-      "surname": "Wosiyane",
-      "contactNumber": "0280421523",
-      "homeAddress": "44820 Buthelezi Stravenue",
-      "idNumber": "3611245611535",
-      "gender": "Agender",
-      "relationship": "Daughter"
-    },
-    {
-      "name": "Sizani",
-      "surname": "Sothole",
-      "contactNumber": "0133787846",
-      "homeAddress": "4508 Nonyana Centers",
-      "idNumber": "3509088514906",
-      "gender": "Female",
+      "name": "Nhlakanipho",
+      "surname": "Dlamini",
+      "contactNumber": "0190702501",
+      "homeAddress": "8429 Mandla Brooks",
+      "idNumber": "8311112292476",
+      "gender": "Non-Binary",
       "relationship": "Grandmother"
-    },
-    {
-      "name": "Ndleleni",
-      "surname": "Gwala",
-      "contactNumber": "0646819113",
-      "homeAddress": "38870 Mehloluhlaza Villages",
-      "idNumber": "3605123984463",
-      "gender": "Female",
-      "relationship": "Partner"
     }
   ],
   [
     {
-      "name": "Sindisiwe",
-      "surname": "Guliwe",
-      "contactNumber": "0629672227",
-      "homeAddress": "9482 Vilakazi Club",
-      "idNumber": "9808046830770",
+      "name": "Nkosenye",
+      "surname": "Siyaya",
+      "contactNumber": "0569515705",
+      "homeAddress": "666 Bhuyeni Walk",
+      "idNumber": "4006033547743",
       "gender": "Genderqueer"
     },
     {
-      "name": "Gatsha",
-      "surname": "Sithuli",
-      "contactNumber": "0333191905",
-      "homeAddress": "85141 Thamsanqa Lights",
-      "idNumber": "9105216125444",
-      "gender": "Transgender Female",
-      "relationship": "Grandson"
-    },
-    {
-      "name": "Sfiso",
-      "surname": "Shezi",
-      "contactNumber": "0861039345",
-      "homeAddress": "148 Nomvula Harbor",
-      "idNumber": "4805088108155",
+      "name": "Zithulele",
+      "surname": "Gigaba",
+      "contactNumber": "0296224922",
+      "homeAddress": "12244 Ayize Track",
+      "idNumber": "4502188116175",
       "gender": "Male",
-      "relationship": "Friend"
+      "relationship": "Grandmother"
     },
     {
-      "name": "Mandla",
-      "surname": "Cele",
-      "contactNumber": "0223328573",
-      "homeAddress": "965 Nonyana Shoal",
-      "idNumber": "4004112415746",
+      "name": "Sanele",
+      "surname": "Sokhela",
+      "contactNumber": "0253423761",
+      "homeAddress": "50656 Mbuso Ford",
+      "idNumber": "9211260245626",
+      "gender": "Transgender Male",
+      "relationship": "Cousin"
+    },
+    {
+      "name": "Sibongile",
+      "surname": "Siyaya",
+      "contactNumber": "0161067862",
+      "homeAddress": "3295 Seme Park",
+      "idNumber": "5208017828042",
+      "gender": "Transgender Female",
+      "relationship": "Wife"
+    },
+    {
+      "name": "Sifiso",
+      "surname": "Mashinini",
+      "contactNumber": "0558284355",
+      "homeAddress": "40498 Sfiso Ramp",
+      "idNumber": "9303108390890",
       "gender": "Bigender",
       "relationship": "Friend"
-    },
-    {
-      "name": "Mpumelelo",
-      "surname": "Guliwe",
-      "contactNumber": "0467854308",
-      "homeAddress": "7165 Sothole Fort",
-      "idNumber": "3010155965643",
-      "gender": "Female",
-      "relationship": "Mother"
-    },
-    {
-      "name": "Thadie",
-      "surname": "Nozulu",
-      "contactNumber": "0347272847",
-      "homeAddress": "76996 Gama Estates",
-      "idNumber": "3009225998269",
-      "gender": "Non-Binary",
-      "relationship": "Friend"
     }
   ],
   [
     {
-      "name": "Gatsha",
-      "surname": "Thumbeza",
-      "contactNumber": "0356944526",
-      "homeAddress": "59312 Nandi Port",
-      "idNumber": "3211265364004",
-      "gender": "Bigender"
-    },
-    {
-      "name": "Sinenhlanhla",
-      "surname": "Mbatha",
-      "contactNumber": "0239998111",
-      "homeAddress": "909 Ntokozo Wells",
-      "idNumber": "5911024226200",
-      "gender": "Female",
-      "relationship": "Uncle"
-    },
-    {
-      "name": "Yibanathi",
-      "surname": "Khumalo",
-      "contactNumber": "0869166136",
-      "homeAddress": "76448 Velaphi Spring",
-      "idNumber": "4410014227128",
-      "gender": "Non-Binary",
-      "relationship": "Uncle"
-    },
-    {
-      "name": "Nkosenye",
-      "surname": "Khumalo",
-      "contactNumber": "0414110025",
-      "homeAddress": "38241 Fanyana Junctions",
-      "idNumber": "3111263127461",
-      "gender": "Male",
-      "relationship": "Nephew"
-    },
-    {
-      "name": "Kagiso",
-      "surname": "Thumbeza",
-      "contactNumber": "0198254795",
-      "homeAddress": "6128 Dhlomo Plains",
-      "idNumber": "6605204430106",
-      "gender": "Other",
-      "relationship": "Sister"
-    },
-    {
-      "name": "Nkosenye",
-      "surname": "Hlongwa",
-      "contactNumber": "0573283889",
-      "homeAddress": "15762 Gigaba Falls",
-      "idNumber": "5204040471837",
-      "gender": "Two-Spirit",
-      "relationship": "Niece"
-    }
-  ],
-  [
-    {
-      "name": "Nokuthula",
-      "surname": "Guliwe",
-      "contactNumber": "0391819086",
-      "homeAddress": "13359 Mpumelelo Passage",
-      "idNumber": "3104143593069",
+      "name": "Bhekumbuso",
+      "surname": "Yengwa",
+      "contactNumber": "0318822619",
+      "homeAddress": "43978 Isisa Course",
+      "idNumber": "8107166323828",
       "gender": "Transgender Male"
     },
     {
-      "name": "Bhekumbuso",
-      "surname": "Nonyana",
-      "contactNumber": "0525768293",
-      "homeAddress": "56598 Amahle Centers",
-      "idNumber": "5207177998613",
-      "gender": "Male",
-      "relationship": "Aunt"
+      "name": "Langa",
+      "surname": "Yengwa",
+      "contactNumber": "0311357875",
+      "homeAddress": "2517 Sondisa Bypass",
+      "idNumber": "9305010881957",
+      "gender": "Transgender Male",
+      "relationship": "Father"
     },
     {
-      "name": "Mthunzi",
-      "surname": "Guliwe",
-      "contactNumber": "0394936665",
-      "homeAddress": "61003 Solomon Pines",
-      "idNumber": "9501150326293",
-      "gender": "Male",
+      "name": "Sfiso",
+      "surname": "Mfeka",
+      "contactNumber": "0293523028",
+      "homeAddress": "5305 Biyela Fort",
+      "idNumber": "7704071659052",
+      "gender": "Pangender",
+      "relationship": "Uncle"
+    },
+    {
+      "name": "Lukhona",
+      "surname": "Yengwa",
+      "contactNumber": "0886650548",
+      "homeAddress": "59616 Phiwokwakhe Pine",
+      "idNumber": "8907148108185",
+      "gender": "Transgender Female",
       "relationship": "Sister"
     },
     {
-      "name": "Ulwazi",
-      "surname": "Nhleko",
-      "contactNumber": "0150351967",
-      "homeAddress": "70211 Ngubane Spring",
-      "idNumber": "7310039090494",
+      "name": "Nandi",
+      "surname": "Yengwa",
+      "contactNumber": "0554846985",
+      "homeAddress": "11516 Lamula Cape",
+      "idNumber": "3207100800037",
+      "gender": "Bigender",
+      "relationship": "Husband"
+    },
+    {
+      "name": "Vusumuzi",
+      "surname": "Yengwa",
+      "contactNumber": "0313187415",
+      "homeAddress": "5929 Nofoto Shoals",
+      "idNumber": "6610127709864",
+      "gender": "Female",
+      "relationship": "Sister"
+    },
+    {
+      "name": "Themba",
+      "surname": "Bhengu",
+      "contactNumber": "0622856706",
+      "homeAddress": "3830 Delazy Cove",
+      "idNumber": "9711260828900",
       "gender": "Transgender Male",
+      "relationship": "Cousin"
+    },
+    {
+      "name": "Khanyisile",
+      "surname": "Nsele",
+      "contactNumber": "0165207146",
+      "homeAddress": "735 Bhembe Lodge",
+      "idNumber": "6108251259417",
+      "gender": "Pangender",
+      "relationship": "Niece"
+    },
+    {
+      "name": "Funani",
+      "surname": "Yengwa",
+      "contactNumber": "0144567366",
+      "homeAddress": "74275 Fanyana Islands",
+      "idNumber": "8806267281945",
+      "gender": "Transgender Female",
+      "relationship": "Sister"
+    }
+  ],
+  [
+    {
+      "name": "Liyana",
+      "surname": "Buthelezi",
+      "contactNumber": "0311846009",
+      "homeAddress": "97065 Zondi Forest",
+      "idNumber": "9106271373259",
+      "gender": "Two-Spirit"
+    },
+    {
+      "name": "Nozipho",
+      "surname": "Buthelezi",
+      "contactNumber": "0474839931",
+      "homeAddress": "605 Radebe Loaf",
+      "idNumber": "3305202285975",
+      "gender": "Pangender",
+      "relationship": "Mother"
+    },
+    {
+      "name": "Phila",
+      "surname": "Vilakazi",
+      "contactNumber": "0551414548",
+      "homeAddress": "58182 Samukelisiwe Haven",
+      "idNumber": "9612123605708",
+      "gender": "Transgender Female",
+      "relationship": "Partner"
+    },
+    {
+      "name": "Khethiwe",
+      "surname": "Gabhezi",
+      "contactNumber": "0360498356",
+      "homeAddress": "63056 Ngubane Canyon",
+      "idNumber": "4502257109070",
+      "gender": "Non-Binary",
       "relationship": "Niece"
     },
     {
       "name": "Ntombizodwa",
-      "surname": "Guliwe",
-      "contactNumber": "0197554433",
-      "homeAddress": "303 Khulekani Parkways",
-      "idNumber": "5904036809394",
+      "surname": "Dube",
+      "contactNumber": "0327243217",
+      "homeAddress": "681 Anele Mountains",
+      "idNumber": "8412153446533",
+      "gender": "Genderfluid",
+      "relationship": "Partner"
+    },
+    {
+      "name": "Langa",
+      "surname": "Khawula",
+      "contactNumber": "0122021254",
+      "homeAddress": "15043 Bhekizizwe Light",
+      "idNumber": "8111126539704",
+      "gender": "Transgender Male",
+      "relationship": "Cousin"
+    },
+    {
+      "name": "Solomon",
+      "surname": "Buthelezi",
+      "contactNumber": "0514131421",
+      "homeAddress": "7361 Mqwebu Forge",
+      "idNumber": "4110102993952",
+      "gender": "Two-Spirit",
+      "relationship": "Father"
+    },
+    {
+      "name": "Nkosingiphile",
+      "surname": "Buthelezi",
+      "contactNumber": "0116594494",
+      "homeAddress": "2666 Maphikelela Via",
+      "idNumber": "6811245422484",
+      "gender": "Genderfluid",
+      "relationship": "Sister"
+    },
+    {
+      "name": "Nkanyezi",
+      "surname": "Buthelezi",
+      "contactNumber": "0646574533",
+      "homeAddress": "78472 Sibusiso Manor",
+      "idNumber": "9301138681787",
+      "gender": "Bigender",
+      "relationship": "Daughter"
+    }
+  ],
+  [
+    {
+      "name": "Maphikelela",
+      "surname": "Ndebele",
+      "contactNumber": "0141546912",
+      "homeAddress": "3166 Delazy Plaza",
+      "idNumber": "3712050041763",
+      "gender": "Two-Spirit"
+    },
+    {
+      "name": "Ntokozo",
+      "surname": "Maphisa",
+      "contactNumber": "0851349485",
+      "homeAddress": "9841 Kunene Highway",
+      "idNumber": "7307084742167",
+      "gender": "Genderfluid",
+      "relationship": "Uncle"
+    },
+    {
+      "name": "Siyanda",
+      "surname": "Wosiyane",
+      "contactNumber": "0637315203",
+      "homeAddress": "43012 Wosiyane Turnpike",
+      "idNumber": "6810165195143",
+      "gender": "Agender",
+      "relationship": "Friend"
+    },
+    {
+      "name": "Thabisa",
+      "surname": "Ndebele",
+      "contactNumber": "0632614475",
+      "homeAddress": "320 Lukhona Corner",
+      "idNumber": "8905065023066",
+      "gender": "Genderqueer",
+      "relationship": "Father"
+    },
+    {
+      "name": "Mbalienhle",
+      "surname": "Ndebele",
+      "contactNumber": "0572299731",
+      "homeAddress": "58343 Hlongwa Course",
+      "idNumber": "4302276260675",
+      "gender": "Female",
+      "relationship": "Wife"
+    },
+    {
+      "name": "Siyanda",
+      "surname": "Ndebele",
+      "contactNumber": "0881150166",
+      "homeAddress": "54608 Mbalienhle Union",
+      "idNumber": "6005161258645",
+      "gender": "Non-Binary",
+      "relationship": "Mother"
+    },
+    {
+      "name": "Nkosinhle",
+      "surname": "Ndebele",
+      "contactNumber": "0530520815",
+      "homeAddress": "11245 Tshabalala Lock",
+      "idNumber": "7708049438237",
       "gender": "Genderfluid",
       "relationship": "Daughter"
     },
     {
-      "name": "Nolwazi",
-      "surname": "Mabizela",
-      "contactNumber": "0734374808",
-      "homeAddress": "6029 Sizakele Underpass",
-      "idNumber": "8105074902348",
-      "gender": "Transgender Female",
-      "relationship": "Cousin"
-    },
-    {
-      "name": "Nonhlanhla",
-      "surname": "Bengu",
-      "contactNumber": "0428383522",
-      "homeAddress": "49363 Mabhida Trace",
-      "idNumber": "3909128451466",
-      "gender": "Genderfluid",
-      "relationship": "Grandson"
-    },
-    {
-      "name": "Phila",
-      "surname": "Guliwe",
-      "contactNumber": "0622737257",
-      "homeAddress": "55112 Mandla Plain",
-      "idNumber": "9902019848509",
-      "gender": "Non-Binary",
-      "relationship": "Wife"
+      "name": "Nozipho",
+      "surname": "Ndebele",
+      "contactNumber": "0584569757",
+      "homeAddress": "137 Zuma Manors",
+      "idNumber": "9706256946649",
+      "gender": "Transgender Male",
+      "relationship": "Brother"
     }
   ],
   [
     {
-      "name": "Sindisiwe",
-      "surname": "Ndebele",
-      "contactNumber": "0606722793",
-      "homeAddress": "16859 Thadie Trace",
-      "idNumber": "5512154361449",
-      "gender": "Female"
+      "name": "Sibusiso",
+      "surname": "Biyela",
+      "contactNumber": "0598409989",
+      "homeAddress": "9120 Nyanda Inlet",
+      "idNumber": "5709061054062",
+      "gender": "Non-Binary"
     },
     {
-      "name": "Nonkululeko",
-      "surname": "Ndebele",
-      "contactNumber": "0470938594",
-      "homeAddress": "3864 Siphephelo Stream",
-      "idNumber": "9307098800080",
-      "gender": "Genderfluid",
+      "name": "Kgabu",
+      "surname": "Biyela",
+      "contactNumber": "0888880916",
+      "homeAddress": "411 Nomvula Brook",
+      "idNumber": "4807255193140",
+      "gender": "Agender",
+      "relationship": "Son"
+    },
+    {
+      "name": "Fanyana",
+      "surname": "Dhlomo",
+      "contactNumber": "0257451194",
+      "homeAddress": "3158 Dube Lodge",
+      "idNumber": "7912256289160",
+      "gender": "Bigender",
+      "relationship": "Grandson"
+    }
+  ],
+  [
+    {
+      "name": "Mpumelelo",
+      "surname": "Khumalo",
+      "contactNumber": "0437531022",
+      "homeAddress": "50892 Lerato Flat",
+      "idNumber": "8010065438519",
+      "gender": "Transgender Male"
+    },
+    {
+      "name": "Nkanyezi",
+      "surname": "Khumalo",
+      "contactNumber": "0611615938",
+      "homeAddress": "920 Mbuso Branch",
+      "idNumber": "9402278120325",
+      "gender": "Transgender Male",
+      "relationship": "Wife"
+    },
+    {
+      "name": "Gatsha",
+      "surname": "Ntombela",
+      "contactNumber": "0243393415",
+      "homeAddress": "7356 Nkosinhle Gateway",
+      "idNumber": "4008244016214",
+      "gender": "Transgender Female",
+      "relationship": "Nephew"
+    },
+    {
+      "name": "Bhekimuzi",
+      "surname": "Khumalo",
+      "contactNumber": "0904444304",
+      "homeAddress": "21714 Guliwe Field",
+      "idNumber": "4603121984818",
+      "gender": "Female",
+      "relationship": "Sister"
+    },
+    {
+      "name": "Ulwazi",
+      "surname": "Khumalo",
+      "contactNumber": "0328825139",
+      "homeAddress": "619 Vusumuzi Cliff",
+      "idNumber": "7403047462924",
+      "gender": "Pangender",
+      "relationship": "Mother"
+    },
+    {
+      "name": "Sfiso",
+      "surname": "Khumalo",
+      "contactNumber": "0604342389",
+      "homeAddress": "52842 Mthethwa Hills",
+      "idNumber": "9307090231105",
+      "gender": "Pangender",
+      "relationship": "Sister"
+    },
+    {
+      "name": "Bangizwe",
+      "surname": "Khumalo",
+      "contactNumber": "0895085429",
+      "homeAddress": "28391 Zuma Spur",
+      "idNumber": "8610093739940",
+      "gender": "Bigender",
       "relationship": "Husband"
     },
     {
-      "name": "Funani",
-      "surname": "Gwacela",
-      "contactNumber": "0824405087",
-      "homeAddress": "863 Gumede Stravenue",
-      "idNumber": "8011053408545",
-      "gender": "Female",
-      "relationship": "Partner"
+      "name": "Shaka",
+      "surname": "Khumalo",
+      "contactNumber": "0137397290",
+      "homeAddress": "370 Siphephelo Well",
+      "idNumber": "4506064321491",
+      "gender": "Agender",
+      "relationship": "Husband"
+    }
+  ],
+  [
+    {
+      "name": "Mthunzi",
+      "surname": "Gumede",
+      "contactNumber": "0268440144",
+      "homeAddress": "66353 Zenzele Expressway",
+      "idNumber": "9301205734383",
+      "gender": "Transgender Male"
     },
     {
-      "name": "Velaphi",
-      "surname": "Mqwebu",
-      "contactNumber": "0723843935",
-      "homeAddress": "3270 Zanele Pike",
-      "idNumber": "4708223334514",
+      "name": "Nomvula",
+      "surname": "Luthuli",
+      "contactNumber": "0319126704",
+      "homeAddress": "33421 Wosiyane Falls",
+      "idNumber": "6602237025404",
+      "gender": "Non-Binary",
+      "relationship": "Grandfather"
+    },
+    {
+      "name": "Bhekimuzi",
+      "surname": "Gumede",
+      "contactNumber": "0904929888",
+      "homeAddress": "238 Mthethwa Tunnel",
+      "idNumber": "8004138705461",
+      "gender": "Male",
+      "relationship": "Husband"
+    },
+    {
+      "name": "Nhlakanipho",
+      "surname": "Ntombela",
+      "contactNumber": "0873870176",
+      "homeAddress": "99639 Velaphi Run",
+      "idNumber": "6404137905494",
+      "gender": "Female",
+      "relationship": "Grandmother"
+    }
+  ],
+  [
+    {
+      "name": "Uluthando",
+      "surname": "Nyanda",
+      "contactNumber": "0831267345",
+      "homeAddress": "824 Ngema Hill",
+      "idNumber": "5503220591748",
+      "gender": "Transgender Male"
+    },
+    {
+      "name": "Siphiwe",
+      "surname": "Nyanda",
+      "contactNumber": "0599169967",
+      "homeAddress": "841 Sibiya Point",
+      "idNumber": "3603158644307",
+      "gender": "Other",
+      "relationship": "Daughter"
+    },
+    {
+      "name": "Khulekani",
+      "surname": "Sibiya",
+      "contactNumber": "0623481477",
+      "homeAddress": "89748 Uluthando Bridge",
+      "idNumber": "6708109617256",
       "gender": "Transgender Male",
+      "relationship": "Nephew"
+    },
+    {
+      "name": "Mthunzi",
+      "surname": "Nyanda",
+      "contactNumber": "0547234409",
+      "homeAddress": "6670 Nolwazi Lakes",
+      "idNumber": "5203184882988",
+      "gender": "Male",
+      "relationship": "Father"
+    },
+    {
+      "name": "Samukelisiwe",
+      "surname": "Ndandali",
+      "contactNumber": "0282518270",
+      "homeAddress": "744 Lerato Keys",
+      "idNumber": "7507276393957",
+      "gender": "Non-Binary",
       "relationship": "Grandmother"
     },
     {
-      "name": "Sanele",
-      "surname": "Ndebele",
-      "contactNumber": "0485199270",
-      "homeAddress": "44906 Ndondoloza Flats",
-      "idNumber": "7208238738368",
-      "gender": "Female",
-      "relationship": "Mother"
+      "name": "Isisa",
+      "surname": "Nyanda",
+      "contactNumber": "0169528043",
+      "homeAddress": "1573 Dhlomo Bypass",
+      "idNumber": "4904060721158",
+      "gender": "Bigender",
+      "relationship": "Sister"
+    }
+  ],
+  [
+    {
+      "name": "Sinenhlanhla",
+      "surname": "Gabhezi",
+      "contactNumber": "0216109990",
+      "homeAddress": "295 Nhleko Coves",
+      "idNumber": "3201215600249",
+      "gender": "Male"
     },
     {
-      "name": "Lukhona",
-      "surname": "Mashinini",
-      "contactNumber": "0316264051",
-      "homeAddress": "784 Liyana Row",
-      "idNumber": "6811188558933",
-      "gender": "Bigender",
-      "relationship": "Aunt"
+      "name": "Solomon",
+      "surname": "Gabhezi",
+      "contactNumber": "0542961244",
+      "homeAddress": "902 Philani Ferry",
+      "idNumber": "9411116008095",
+      "gender": "Transgender Female",
+      "relationship": "Father"
+    },
+    {
+      "name": "Busisiwe",
+      "surname": "Gabhezi",
+      "contactNumber": "0266203474",
+      "homeAddress": "93427 Nzimande Terrace",
+      "idNumber": "6310170327797",
+      "gender": "Non-Binary",
+      "relationship": "Husband"
+    },
+    {
+      "name": "Mthunzi",
+      "surname": "Gabhezi",
+      "contactNumber": "0137323550",
+      "homeAddress": "1038 Hlengiwe Roads",
+      "idNumber": "5805111489152",
+      "gender": "Non-Binary",
+      "relationship": "Brother"
     }
   ],
   [
     {
       "name": "Nolwazi",
-      "surname": "Mbatha",
-      "contactNumber": "0981510049",
-      "homeAddress": "12234 Sithembiso Camp",
-      "idNumber": "9604215839237",
-      "gender": "Male"
+      "surname": "Biyela",
+      "contactNumber": "0379761692",
+      "homeAddress": "314 Bhengani Summit",
+      "idNumber": "4608165488942",
+      "gender": "Bigender"
+    },
+    {
+      "name": "Zithulele",
+      "surname": "Wosiyane",
+      "contactNumber": "0571027124",
+      "homeAddress": "53023 Dhlomo Corner",
+      "idNumber": "9610151959393",
+      "gender": "Female",
+      "relationship": "Friend"
+    },
+    {
+      "name": "Ndleleni",
+      "surname": "Biyela",
+      "contactNumber": "0989187855",
+      "homeAddress": "791 Mpilo Island",
+      "idNumber": "9308183309999",
+      "gender": "Transgender Female",
+      "relationship": "Son"
+    },
+    {
+      "name": "Gatsha",
+      "surname": "Mashinini",
+      "contactNumber": "0720576241",
+      "homeAddress": "425 Gwala Corner",
+      "idNumber": "7409249262339",
+      "gender": "Male",
+      "relationship": "Nephew"
+    },
+    {
+      "name": "Mhambi",
+      "surname": "Ngubane",
+      "contactNumber": "0219985770",
+      "homeAddress": "155 Ngubane Field",
+      "idNumber": "4310039571528",
+      "gender": "Female",
+      "relationship": "Partner"
+    }
+  ],
+  [
+    {
+      "name": "Ntombizodwa",
+      "surname": "Vezi",
+      "contactNumber": "0574354026",
+      "homeAddress": "5628 Nonkululeko Highway",
+      "idNumber": "6109278455862",
+      "gender": "Transgender Male"
+    },
+    {
+      "name": "Bhekumbuso",
+      "surname": "Malinga",
+      "contactNumber": "0640787328",
+      "homeAddress": "7816 Dlamini Islands",
+      "idNumber": "3011219265519",
+      "gender": "Male",
+      "relationship": "Grandson"
+    },
+    {
+      "name": "Nonkululeko",
+      "surname": "Msibi",
+      "contactNumber": "0171359961",
+      "homeAddress": "66853 Thando Centers",
+      "idNumber": "9801099075968",
+      "gender": "Non-Binary",
+      "relationship": "Cousin"
+    }
+  ],
+  [
+    {
+      "name": "Nkosiyabo",
+      "surname": "Sokhela",
+      "contactNumber": "0448011549",
+      "homeAddress": "7081 Biyela Streets",
+      "idNumber": "5004209951232",
+      "gender": "Two-Spirit"
+    }
+  ],
+  [
+    {
+      "name": "Zenzele",
+      "surname": "Ngcolosi",
+      "contactNumber": "0561978669",
+      "homeAddress": "7226 Maphisa Forge",
+      "idNumber": "3201240687097",
+      "gender": "Bigender"
+    },
+    {
+      "name": "Mthunzi",
+      "surname": "Ngcolosi",
+      "contactNumber": "0140883954",
+      "homeAddress": "535 Yengwa Plain",
+      "idNumber": "9404107813863",
+      "gender": "Transgender Male",
+      "relationship": "Father"
+    }
+  ],
+  [
+    {
+      "name": "Sanele",
+      "surname": "Seme",
+      "contactNumber": "0564900295",
+      "homeAddress": "106 Bhuyeni Village",
+      "idNumber": "3801205136064",
+      "gender": "Pangender"
+    },
+    {
+      "name": "Zanele",
+      "surname": "Gigaba",
+      "contactNumber": "0117399101",
+      "homeAddress": "6133 Linda Brook",
+      "idNumber": "5704177781976",
+      "gender": "Female",
+      "relationship": "Grandson"
+    },
+    {
+      "name": "Ndleleni",
+      "surname": "Tshabalala",
+      "contactNumber": "0338222792",
+      "homeAddress": "514 Bhekizizwe Heights",
+      "idNumber": "4207135235101",
+      "gender": "Agender",
+      "relationship": "Uncle"
+    },
+    {
+      "name": "Bangizwe",
+      "surname": "Seme",
+      "contactNumber": "0479423820",
+      "homeAddress": "61874 Mpilo Corners",
+      "idNumber": "5802100058485",
+      "gender": "Transgender Male",
+      "relationship": "Sister"
+    },
+    {
+      "name": "Bhekumbuso",
+      "surname": "Seme",
+      "contactNumber": "0874726491",
+      "homeAddress": "5468 Duduzile Villages",
+      "idNumber": "7011142764315",
+      "gender": "Genderqueer",
+      "relationship": "Mother"
+    }
+  ],
+  [
+    {
+      "name": "Nkanyezi",
+      "surname": "Zondi",
+      "contactNumber": "0728204174",
+      "homeAddress": "782 Bhengani Circle",
+      "idNumber": "3504238314313",
+      "gender": "Pangender"
+    },
+    {
+      "name": "Nolwazi",
+      "surname": "Zondi",
+      "contactNumber": "0324556616",
+      "homeAddress": "98947 Jabulile Inlet",
+      "idNumber": "5307234456569",
+      "gender": "Male",
+      "relationship": "Son"
+    },
+    {
+      "name": "Funani",
+      "surname": "Zondi",
+      "contactNumber": "0481751430",
+      "homeAddress": "92763 Bonginkosi Rue",
+      "idNumber": "4411180998913",
+      "gender": "Female",
+      "relationship": "Sister"
+    },
+    {
+      "name": "Themba",
+      "surname": "Zondi",
+      "contactNumber": "0887869253",
+      "homeAddress": "8898 Msizi Lake",
+      "idNumber": "9801047276940",
+      "gender": "Two-Spirit",
+      "relationship": "Brother"
+    },
+    {
+      "name": "Nomvula",
+      "surname": "Mavundla",
+      "contactNumber": "0178676797",
+      "homeAddress": "8285 Senzangakhona Lodge",
+      "idNumber": "3007017066893",
+      "gender": "Agender",
+      "relationship": "Cousin"
+    },
+    {
+      "name": "Mthunzi",
+      "surname": "Nhleko",
+      "contactNumber": "0452584628",
+      "homeAddress": "614 Amahle Oval",
+      "idNumber": "7307240905241",
+      "gender": "Male",
+      "relationship": "Aunt"
+    },
+    {
+      "name": "Maphikelela",
+      "surname": "Zondi",
+      "contactNumber": "0599983978",
+      "homeAddress": "15307 Siphephelo Walk",
+      "idNumber": "7807144229265",
+      "gender": "Two-Spirit",
+      "relationship": "Brother"
+    },
+    {
+      "name": "Ayize",
+      "surname": "Zondi",
+      "contactNumber": "0372334221",
+      "homeAddress": "36220 Khethiwe Plaza",
+      "idNumber": "4407221008420",
+      "gender": "Genderqueer",
+      "relationship": "Father"
+    }
+  ],
+  [
+    {
+      "name": "Nonhlanhla",
+      "surname": "Zubane",
+      "contactNumber": "0710058110",
+      "homeAddress": "14375 Nkosinhle Islands",
+      "idNumber": "6708226238613",
+      "gender": "Transgender Male"
+    },
+    {
+      "name": "Isisa",
+      "surname": "Sokhela",
+      "contactNumber": "0286845516",
+      "homeAddress": "4414 Sizani Avenue",
+      "idNumber": "3412131540885",
+      "gender": "Transgender Male",
+      "relationship": "Grandfather"
+    },
+    {
+      "name": "Nonkululeko",
+      "surname": "Zubane",
+      "contactNumber": "0716157488",
+      "homeAddress": "5651 Sothole Way",
+      "idNumber": "4006110605966",
+      "gender": "Pangender",
+      "relationship": "Brother"
+    },
+    {
+      "name": "Thulisile",
+      "surname": "Mqwebu",
+      "contactNumber": "0897227591",
+      "homeAddress": "3684 Zanele Groves",
+      "idNumber": "6706046708854",
+      "gender": "Transgender Female",
+      "relationship": "Friend"
+    }
+  ],
+  [
+    {
+      "name": "Sinenhlanhla",
+      "surname": "Fuze",
+      "contactNumber": "0521891614",
+      "homeAddress": "82388 Maduma Forges",
+      "idNumber": "5207167223347",
+      "gender": "Female"
+    },
+    {
+      "name": "Nonjabulo",
+      "surname": "Fuze",
+      "contactNumber": "0873375174",
+      "homeAddress": "480 Yengwa Ford",
+      "idNumber": "5007131016621",
+      "gender": "Genderfluid",
+      "relationship": "Wife"
     },
     {
       "name": "Velaphi",
-      "surname": "Maphisa",
-      "contactNumber": "0215948513",
-      "homeAddress": "236 Nhlakanipho Landing",
-      "idNumber": "5701113241310",
-      "gender": "Genderfluid",
-      "relationship": "Partner"
+      "surname": "Fuze",
+      "contactNumber": "0581458816",
+      "homeAddress": "35292 Liyana Glens",
+      "idNumber": "6203231299411",
+      "gender": "Genderqueer",
+      "relationship": "Father"
+    }
+  ],
+  [
+    {
+      "name": "Maphikelela",
+      "surname": "Ngwazi",
+      "contactNumber": "0826782209",
+      "homeAddress": "3045 Magoza Gardens",
+      "idNumber": "9212019232857",
+      "gender": "Transgender Male"
     },
     {
-      "name": "Busisiwe",
-      "surname": "Mbatha",
-      "contactNumber": "0554179713",
-      "homeAddress": "80395 Fuze Parkway",
-      "idNumber": "8709097480206",
+      "name": "Thulisile",
+      "surname": "Ngwazi",
+      "contactNumber": "0133527051",
+      "homeAddress": "297 Ncusi Flats",
+      "idNumber": "9205124768869",
+      "gender": "Pangender",
+      "relationship": "Sister"
+    },
+    {
+      "name": "Buhle",
+      "surname": "Zungu",
+      "contactNumber": "0154842867",
+      "homeAddress": "913 Buthelezi Gateway",
+      "idNumber": "4310168040456",
+      "gender": "Transgender Female",
+      "relationship": "Grandfather"
+    },
+    {
+      "name": "Thobeka",
+      "surname": "Siyaya",
+      "contactNumber": "0390718885",
+      "homeAddress": "7710 Kgabu Glen",
+      "idNumber": "4410034167861",
+      "gender": "Transgender Male",
+      "relationship": "Friend"
+    },
+    {
+      "name": "Sibusiso",
+      "surname": "Mgenge",
+      "contactNumber": "0369809117",
+      "homeAddress": "8580 Zondo Trail",
+      "idNumber": "6402111299445",
+      "gender": "Transgender Male",
+      "relationship": "Grandfather"
+    }
+  ],
+  [
+    {
+      "name": "Ayize",
+      "surname": "Ntombela",
+      "contactNumber": "0438599453",
+      "homeAddress": "107 Sithembiso Route",
+      "idNumber": "8203142152587",
+      "gender": "Female"
+    },
+    {
+      "name": "Langa",
+      "surname": "Ntombela",
+      "contactNumber": "0122154097",
+      "homeAddress": "625 Bhuyeni Estate",
+      "idNumber": "6311178447932",
+      "gender": "Transgender Female",
+      "relationship": "Daughter"
+    },
+    {
+      "name": "Thadie",
+      "surname": "Dube",
+      "contactNumber": "0398395569",
+      "homeAddress": "350 Siphephelo Oval",
+      "idNumber": "3009049874174",
+      "gender": "Genderqueer",
+      "relationship": "Grandson"
+    },
+    {
+      "name": "Zithulele",
+      "surname": "Thusi",
+      "contactNumber": "0398265644",
+      "homeAddress": "85483 Bhengani Course",
+      "idNumber": "8704243061125",
+      "gender": "Genderqueer",
+      "relationship": "Grandfather"
+    },
+    {
+      "name": "Thadie",
+      "surname": "Ntombela",
+      "contactNumber": "0245634305",
+      "homeAddress": "17374 Nkanyezi Forge",
+      "idNumber": "4005075190293",
+      "gender": "Female",
+      "relationship": "Father"
+    },
+    {
+      "name": "Ntokozo",
+      "surname": "Ntombela",
+      "contactNumber": "0344880883",
+      "homeAddress": "269 Gabhezi Common",
+      "idNumber": "5507231061460",
+      "gender": "Genderfluid",
+      "relationship": "Son"
+    },
+    {
+      "name": "Zenzele",
+      "surname": "Maphisa",
+      "contactNumber": "0828885763",
+      "homeAddress": "5136 Siwele Land",
+      "idNumber": "6711048456792",
+      "gender": "Genderqueer",
+      "relationship": "Uncle"
+    },
+    {
+      "name": "Samukelisiwe",
+      "surname": "Ntombela",
+      "contactNumber": "0352293320",
+      "homeAddress": "34600 Linda Fields",
+      "idNumber": "7908018704127",
+      "gender": "Non-Binary",
+      "relationship": "Brother"
+    },
+    {
+      "name": "Nhlakanipho",
+      "surname": "Wosiyane",
+      "contactNumber": "0449823298",
+      "homeAddress": "919 Lukhona Divide",
+      "idNumber": "9604169424475",
+      "gender": "Genderfluid",
+      "relationship": "Niece"
+    }
+  ],
+  [
+    {
+      "name": "Sizakele",
+      "surname": "Nzimande",
+      "contactNumber": "0326294128",
+      "homeAddress": "697 Ayize River",
+      "idNumber": "6111238326914",
+      "gender": "Bigender"
+    },
+    {
+      "name": "Lwandle",
+      "surname": "Gumede",
+      "contactNumber": "0233028297",
+      "homeAddress": "7651 Nkosenye Walks",
+      "idNumber": "6802235667745",
+      "gender": "Pangender",
+      "relationship": "Uncle"
+    },
+    {
+      "name": "Jabulile",
+      "surname": "Gigaba",
+      "contactNumber": "0284051045",
+      "homeAddress": "79498 Bhuyeni Unions",
+      "idNumber": "8502138707703",
+      "gender": "Bigender",
+      "relationship": "Nephew"
+    }
+  ],
+  [
+    {
+      "name": "Shaka",
+      "surname": "Zondi",
+      "contactNumber": "0636453973",
+      "homeAddress": "9893 Zondo Mill",
+      "idNumber": "6004152834358",
+      "gender": "Transgender Male"
+    },
+    {
+      "name": "Bonginkosi",
+      "surname": "Zondi",
+      "contactNumber": "0461658651",
+      "homeAddress": "5466 Ndleleni Mount",
+      "idNumber": "7110079409021",
       "gender": "Bigender",
       "relationship": "Mother"
     },
     {
-      "name": "Nonhlanhla",
-      "surname": "Dlamini",
-      "contactNumber": "0445110248",
-      "homeAddress": "1131 Mpumelelo Ville",
-      "idNumber": "4301145757702",
-      "gender": "Agender",
+      "name": "Siyanda",
+      "surname": "Zondi",
+      "contactNumber": "0841167405",
+      "homeAddress": "19747 Siyaya Brook",
+      "idNumber": "9506082152250",
+      "gender": "Transgender Female",
+      "relationship": "Brother"
+    },
+    {
+      "name": "Lungelo",
+      "surname": "Luthuli",
+      "contactNumber": "0355409691",
+      "homeAddress": "44243 Dingiswayo Vista",
+      "idNumber": "5501079567281",
+      "gender": "Genderqueer",
       "relationship": "Aunt"
     },
     {
-      "name": "Duduzile",
-      "surname": "Bhuyeni",
-      "contactNumber": "0893994850",
-      "homeAddress": "35901 Amahle Key",
-      "idNumber": "4012211442384",
-      "gender": "Bigender",
+      "name": "Sizani",
+      "surname": "Thusi",
+      "contactNumber": "0839822053",
+      "homeAddress": "44089 Sipho Fort",
+      "idNumber": "4006186331186",
+      "gender": "Two-Spirit",
+      "relationship": "Grandson"
+    },
+    {
+      "name": "Msizi",
+      "surname": "Bengu",
+      "contactNumber": "0745825777",
+      "homeAddress": "520 Mbuso Ridges",
+      "idNumber": "6401239294429",
+      "gender": "Male",
+      "relationship": "Niece"
+    },
+    {
+      "name": "Bhekimuzi",
+      "surname": "Zondi",
+      "contactNumber": "0574601173",
+      "homeAddress": "21503 Thoyana Summit",
+      "idNumber": "5911065811945",
+      "gender": "Two-Spirit",
+      "relationship": "Sister"
+    },
+    {
+      "name": "Vusumuzi",
+      "surname": "Nondlela",
+      "contactNumber": "0149612167",
+      "homeAddress": "804 Zanele Center",
+      "idNumber": "8812066735459",
+      "gender": "Pangender",
+      "relationship": "Grandfather"
+    },
+    {
+      "name": "Inyoni",
+      "surname": "Zondi",
+      "contactNumber": "0829264203",
+      "homeAddress": "4497 Nkanyezi Valleys",
+      "idNumber": "9412260004996",
+      "gender": "Non-Binary",
+      "relationship": "Mother"
+    }
+  ],
+  [
+    {
+      "name": "Zithulele",
+      "surname": "Bhembe",
+      "contactNumber": "0616734500",
+      "homeAddress": "6469 Lamula Loop",
+      "idNumber": "5212086160961",
+      "gender": "Genderqueer"
+    },
+    {
+      "name": "Velaphi",
+      "surname": "Dlamini",
+      "contactNumber": "0719268009",
+      "homeAddress": "91325 Ayanda Hills",
+      "idNumber": "6611066054273",
+      "gender": "Non-Binary",
       "relationship": "Uncle"
     }
   ],
   [
     {
-      "name": "Bafana",
-      "surname": "Lamula",
-      "contactNumber": "0836784998",
-      "homeAddress": "622 Busisiwe Rest",
-      "idNumber": "8705214276492",
-      "gender": "Genderqueer"
+      "name": "Buhle",
+      "surname": "Nonyana",
+      "contactNumber": "0856480338",
+      "homeAddress": "166 Sifiso Forest",
+      "idNumber": "9401103463784",
+      "gender": "Pangender"
     },
     {
-      "name": "Thabisa",
-      "surname": "Lamula",
-      "contactNumber": "0289703166",
-      "homeAddress": "9534 Sinenhlanhla Lane",
-      "idNumber": "6211207512077",
+      "name": "Siphephelo",
+      "surname": "Gumede",
+      "contactNumber": "0430571757",
+      "homeAddress": "79897 Phiwokwakhe Drives",
+      "idNumber": "7002042011097",
+      "gender": "Agender",
+      "relationship": "Aunt"
+    },
+    {
+      "name": "Nkosenye",
+      "surname": "Nonyana",
+      "contactNumber": "0631326247",
+      "homeAddress": "65740 Lwandle Lake",
+      "idNumber": "8612255405918",
+      "gender": "Non-Binary",
+      "relationship": "Daughter"
+    },
+    {
+      "name": "Nolwazi",
+      "surname": "Nonyana",
+      "contactNumber": "0851685677",
+      "homeAddress": "235 Shaka Gateway",
+      "idNumber": "8301183967415",
+      "gender": "Genderqueer",
+      "relationship": "Mother"
+    }
+  ],
+  [
+    {
+      "name": "Sithembiso",
+      "surname": "Tshabalala",
+      "contactNumber": "0232975184",
+      "homeAddress": "58236 Nonkululeko Brook",
+      "idNumber": "5512250799163",
+      "gender": "Agender"
+    },
+    {
+      "name": "Mhambi",
+      "surname": "Ndandali",
+      "contactNumber": "0332747846",
+      "homeAddress": "14631 Mthethwa Lakes",
+      "idNumber": "9412059577571",
+      "gender": "Non-Binary",
+      "relationship": "Grandmother"
+    },
+    {
+      "name": "Nkosingiphile",
+      "surname": "Mashinini",
+      "contactNumber": "0499902149",
+      "homeAddress": "339 Zobuhle Grove",
+      "idNumber": "8701161280338",
+      "gender": "Female",
+      "relationship": "Niece"
+    },
+    {
+      "name": "Langa",
+      "surname": "Nonyana",
+      "contactNumber": "0610770872",
+      "homeAddress": "93261 Sifiso Oval",
+      "idNumber": "9204131021554",
+      "gender": "Other",
+      "relationship": "Partner"
+    },
+    {
+      "name": "Ntombizodwa",
+      "surname": "Zuma",
+      "contactNumber": "0536866923",
+      "homeAddress": "76495 Nsele Path",
+      "idNumber": "5907022136565",
+      "gender": "Non-Binary",
+      "relationship": "Aunt"
+    },
+    {
+      "name": "Thulani",
+      "surname": "Tshabalala",
+      "contactNumber": "0349701424",
+      "homeAddress": "35678 Sizakele Causeway",
+      "idNumber": "5208208990544",
+      "gender": "Female",
+      "relationship": "Mother"
+    }
+  ],
+  [
+    {
+      "name": "Uluthando",
+      "surname": "Vezi",
+      "contactNumber": "0451437641",
+      "homeAddress": "970 Thulisile Parks",
+      "idNumber": "3411224913777",
+      "gender": "Transgender Male"
+    },
+    {
+      "name": "Ulwazi",
+      "surname": "Ncusi",
+      "contactNumber": "0160068037",
+      "homeAddress": "42125 Hlongwa Crest",
+      "idNumber": "5402259687729",
+      "gender": "Non-Binary",
+      "relationship": "Uncle"
+    },
+    {
+      "name": "Ntombizodwa",
+      "surname": "Mtolo",
+      "contactNumber": "0198148404",
+      "homeAddress": "873 Mthethwa Highway",
+      "idNumber": "6102197543670",
+      "gender": "Two-Spirit",
+      "relationship": "Nephew"
+    },
+    {
+      "name": "Kgabu",
+      "surname": "Vezi",
+      "contactNumber": "0139695078",
+      "homeAddress": "3406 Velaphi Route",
+      "idNumber": "8408129186692",
+      "gender": "Non-Binary",
+      "relationship": "Father"
+    },
+    {
+      "name": "Thulisile",
+      "surname": "Gwacela",
+      "contactNumber": "0853172769",
+      "homeAddress": "7636 Bhekumbuso Islands",
+      "idNumber": "5010099643434",
+      "gender": "Female",
+      "relationship": "Cousin"
+    },
+    {
+      "name": "Hlengiwe",
+      "surname": "Ntanzi",
+      "contactNumber": "0240823355",
+      "homeAddress": "399 Lembede Center",
+      "idNumber": "8006013501480",
+      "gender": "Two-Spirit",
+      "relationship": "Uncle"
+    },
+    {
+      "name": "Ayanda",
+      "surname": "Thusi",
+      "contactNumber": "0594922148",
+      "homeAddress": "862 Nkanyezi Views",
+      "idNumber": "8609133460820",
       "gender": "Bigender",
+      "relationship": "Niece"
+    },
+    {
+      "name": "Nomvula",
+      "surname": "Vezi",
+      "contactNumber": "0481605116",
+      "homeAddress": "634 Ndebele Motorway",
+      "idNumber": "3710168927963",
+      "gender": "Transgender Female",
+      "relationship": "Nephew"
+    },
+    {
+      "name": "Themba",
+      "surname": "Vezi",
+      "contactNumber": "0557061369",
+      "homeAddress": "28666 Sanele Rapids",
+      "idNumber": "9509176343871",
+      "gender": "Female",
+      "relationship": "Husband"
+    }
+  ],
+  [
+    {
+      "name": "Nokuthula",
+      "surname": "Dhlomo",
+      "contactNumber": "0560047076",
+      "homeAddress": "98654 Musi Greens",
+      "idNumber": "4802109138402",
+      "gender": "Transgender Male"
+    },
+    {
+      "name": "Zobuhle",
+      "surname": "Khumalo",
+      "contactNumber": "0576503560",
+      "homeAddress": "1560 Nonjabulo Mission",
+      "idNumber": "6806266370520",
+      "gender": "Female",
+      "relationship": "Grandmother"
+    },
+    {
+      "name": "Maphikelela",
+      "surname": "Dhlomo",
+      "contactNumber": "0986863014",
+      "homeAddress": "7952 Nsele Knoll",
+      "idNumber": "5707068394373",
+      "gender": "Pangender",
       "relationship": "Husband"
     },
     {
-      "name": "Bhekumbuso",
-      "surname": "Gwacela",
-      "contactNumber": "0325523734",
-      "homeAddress": "6124 Ntanzi River",
-      "idNumber": "4101219283579",
-      "gender": "Genderfluid",
+      "name": "Nolwazi",
+      "surname": "Dhlomo",
+      "contactNumber": "0136850175",
+      "homeAddress": "4852 Mpilo Ports",
+      "idNumber": "3508173222543",
+      "gender": "Transgender Female",
+      "relationship": "Sister"
+    },
+    {
+      "name": "Gatsha",
+      "surname": "Mbatha",
+      "contactNumber": "0397618574",
+      "homeAddress": "541 Seme Forge",
+      "idNumber": "6306145638417",
+      "gender": "Genderqueer",
+      "relationship": "Partner"
+    },
+    {
+      "name": "Ayanda",
+      "surname": "Nonyana",
+      "contactNumber": "0622808731",
+      "homeAddress": "134 Nonhlanhla Shores",
+      "idNumber": "3510038248604",
+      "gender": "Male",
+      "relationship": "Cousin"
+    }
+  ],
+  [
+    {
+      "name": "Ntombizodwa",
+      "surname": "Ndebele",
+      "contactNumber": "0857054206",
+      "homeAddress": "982 Nomvula Shoals",
+      "idNumber": "7412279836879",
+      "gender": "Male"
+    },
+    {
+      "name": "Yibanathi",
+      "surname": "Ndebele",
+      "contactNumber": "0518552454",
+      "homeAddress": "50976 Zuma Row",
+      "idNumber": "6009078814338",
+      "gender": "Agender",
+      "relationship": "Mother"
+    },
+    {
+      "name": "Thamsanqa",
+      "surname": "Zondo",
+      "contactNumber": "0424862389",
+      "homeAddress": "7690 Khethiwe Radial",
+      "idNumber": "8705116541382",
+      "gender": "Transgender Female",
+      "relationship": "Grandson"
+    },
+    {
+      "name": "Thulani",
+      "surname": "Tshabalala",
+      "contactNumber": "0599284482",
+      "homeAddress": "57360 Nkosingiphile Square",
+      "idNumber": "3006223545614",
+      "gender": "Non-Binary",
+      "relationship": "Aunt"
+    }
+  ],
+  [
+    {
+      "name": "Nonkululeko",
+      "surname": "Moseley",
+      "contactNumber": "0731801349",
+      "homeAddress": "17019 Kgabu Crest",
+      "idNumber": "7007241497106",
+      "gender": "Other"
+    },
+    {
+      "name": "Philani",
+      "surname": "Moseley",
+      "contactNumber": "0213784874",
+      "homeAddress": "322 Sipho Stream",
+      "idNumber": "4303059775560",
+      "gender": "Transgender Male",
+      "relationship": "Brother"
+    },
+    {
+      "name": "Lukhona",
+      "surname": "Moseley",
+      "contactNumber": "0144845762",
+      "homeAddress": "65354 Nzimande Crossroad",
+      "idNumber": "5201197246508",
+      "gender": "Pangender",
+      "relationship": "Husband"
+    },
+    {
+      "name": "Langa",
+      "surname": "Guliwe",
+      "contactNumber": "0988529534",
+      "homeAddress": "26754 Cebekhulu Club",
+      "idNumber": "7309161650218",
+      "gender": "Transgender Female",
       "relationship": "Niece"
+    },
+    {
+      "name": "Nolwazi",
+      "surname": "Cebekhulu",
+      "contactNumber": "0480905636",
+      "homeAddress": "517 Thulani Extensions",
+      "idNumber": "8211079314807",
+      "gender": "Male",
+      "relationship": "Granddaughter"
+    },
+    {
+      "name": "Bangizwe",
+      "surname": "Moseley",
+      "contactNumber": "0343879391",
+      "homeAddress": "3284 Jabulile Parks",
+      "idNumber": "4301033594297",
+      "gender": "Genderqueer",
+      "relationship": "Brother"
+    },
+    {
+      "name": "Phiwokwakhe",
+      "surname": "Moseley",
+      "contactNumber": "0453882619",
+      "homeAddress": "52024 Cebekhulu Streets",
+      "idNumber": "5603026647919",
+      "gender": "Female",
+      "relationship": "Father"
+    },
+    {
+      "name": "Zithulele",
+      "surname": "Moseley",
+      "contactNumber": "0454891427",
+      "homeAddress": "60757 Gumede Loaf",
+      "idNumber": "4907252596951",
+      "gender": "Two-Spirit",
+      "relationship": "Brother"
+    }
+  ],
+  [
+    {
+      "name": "Uluthando",
+      "surname": "Shezi",
+      "contactNumber": "0121647326",
+      "homeAddress": "37955 Gatsha Overpass",
+      "idNumber": "3604117126210",
+      "gender": "Two-Spirit"
+    },
+    {
+      "name": "Lerato",
+      "surname": "Cebekhulu",
+      "contactNumber": "0515756860",
+      "homeAddress": "6891 Chiliza Forge",
+      "idNumber": "7608120088965",
+      "gender": "Two-Spirit",
+      "relationship": "Cousin"
+    },
+    {
+      "name": "Fanyana",
+      "surname": "Shezi",
+      "contactNumber": "0717190322",
+      "homeAddress": "55058 Ndondoloza Burgs",
+      "idNumber": "4210191730289",
+      "gender": "Genderqueer",
+      "relationship": "Mother"
+    },
+    {
+      "name": "Anele",
+      "surname": "Sithuli",
+      "contactNumber": "0347908421",
+      "homeAddress": "31539 Ayize Forge",
+      "idNumber": "8308119961473",
+      "gender": "Genderqueer",
+      "relationship": "Aunt"
+    }
+  ],
+  [
+    {
+      "name": "Ntombizodwa",
+      "surname": "Nsele",
+      "contactNumber": "0537989941",
+      "homeAddress": "2018 Zungu Glen",
+      "idNumber": "9010238064302",
+      "gender": "Two-Spirit"
+    },
+    {
+      "name": "Khanyisile",
+      "surname": "Dube",
+      "contactNumber": "0259418107",
+      "homeAddress": "2408 Zenzele Station",
+      "idNumber": "5806144520779",
+      "gender": "Transgender Male",
+      "relationship": "Partner"
+    },
+    {
+      "name": "Khethiwe",
+      "surname": "Ngwazi",
+      "contactNumber": "0281115076",
+      "homeAddress": "2755 Khethiwe Court",
+      "idNumber": "9407061008163",
+      "gender": "Male",
+      "relationship": "Granddaughter"
+    },
+    {
+      "name": "Thobeka",
+      "surname": "Mbende",
+      "contactNumber": "0349702684",
+      "homeAddress": "779 Linda Brooks",
+      "idNumber": "7106095694604",
+      "gender": "Transgender Male",
+      "relationship": "Uncle"
+    }
+  ],
+  [
+    {
+      "name": "Vusumuzi",
+      "surname": "Ntombela",
+      "contactNumber": "0738458821",
+      "homeAddress": "111 Sipho Fords",
+      "idNumber": "4503232030491",
+      "gender": "Agender"
+    },
+    {
+      "name": "Khanyisile",
+      "surname": "Mtolo",
+      "contactNumber": "0635250529",
+      "homeAddress": "233 Cele Track",
+      "idNumber": "6807123640186",
+      "gender": "Pangender",
+      "relationship": "Uncle"
+    },
+    {
+      "name": "Solomon",
+      "surname": "Yengwa",
+      "contactNumber": "0184071260",
+      "homeAddress": "1922 Ngubane Dam",
+      "idNumber": "4202032611980",
+      "gender": "Pangender",
+      "relationship": "Cousin"
+    },
+    {
+      "name": "Thulisile",
+      "surname": "Sondisa",
+      "contactNumber": "0629660428",
+      "homeAddress": "29343 Mbende Gateway",
+      "idNumber": "3411255174022",
+      "gender": "Other",
+      "relationship": "Grandfather"
+    },
+    {
+      "name": "Ayanda",
+      "surname": "Ntombela",
+      "contactNumber": "0383164555",
+      "homeAddress": "4291 Ngubane Rapids",
+      "idNumber": "7401231521164",
+      "gender": "Bigender",
+      "relationship": "Sister"
+    },
+    {
+      "name": "Ntokozo",
+      "surname": "Thusi",
+      "contactNumber": "0278493683",
+      "homeAddress": "6125 Tshabalala Loop",
+      "idNumber": "9802245356259",
+      "gender": "Bigender",
+      "relationship": "Niece"
+    }
+  ],
+  [
+    {
+      "name": "Funani",
+      "surname": "Magoza",
+      "contactNumber": "0351002874",
+      "homeAddress": "4139 Nzimande Fall",
+      "idNumber": "3205189182481",
+      "gender": "Transgender Male"
+    },
+    {
+      "name": "Lwandle",
+      "surname": "Gigaba",
+      "contactNumber": "0980328422",
+      "homeAddress": "24948 Siyanda Heights",
+      "idNumber": "6210204659280",
+      "gender": "Other",
+      "relationship": "Grandfather"
+    },
+    {
+      "name": "Nofoto",
+      "surname": "Sothole",
+      "contactNumber": "0468566799",
+      "homeAddress": "17833 Nomvula Rapid",
+      "idNumber": "7901157441566",
+      "gender": "Bigender",
+      "relationship": "Grandson"
+    },
+    {
+      "name": "Yibanathi",
+      "surname": "Ngcolosi",
+      "contactNumber": "0447603020",
+      "homeAddress": "63241 Lerato Way",
+      "idNumber": "4204073139653",
+      "gender": "Pangender",
+      "relationship": "Grandmother"
+    },
+    {
+      "name": "Nomvula",
+      "surname": "Magoza",
+      "contactNumber": "0196231938",
+      "homeAddress": "352 Gumede Orchard",
+      "idNumber": "3011075222591",
+      "gender": "Transgender Male",
+      "relationship": "Brother"
+    },
+    {
+      "name": "Nozipho",
+      "surname": "Magoza",
+      "contactNumber": "0168967692",
+      "homeAddress": "635 Gigaba Mountain",
+      "idNumber": "3611179412913",
+      "gender": "Other",
+      "relationship": "Daughter"
+    }
+  ],
+  [
+    {
+      "name": "Ayize",
+      "surname": "Thoyana",
+      "contactNumber": "0591832200",
+      "homeAddress": "6263 Delazy Track",
+      "idNumber": "8809153779691",
+      "gender": "Genderqueer"
+    },
+    {
+      "name": "Thamsanqa",
+      "surname": "Bengu",
+      "contactNumber": "0182225118",
+      "homeAddress": "5601 Nzimande Passage",
+      "idNumber": "6504163049488",
+      "gender": "Male",
+      "relationship": "Aunt"
+    },
+    {
+      "name": "Sizani",
+      "surname": "Vilakazi",
+      "contactNumber": "0287452588",
+      "homeAddress": "86556 Guliwe Meadows",
+      "idNumber": "3010110638732",
+      "gender": "Female",
+      "relationship": "Granddaughter"
+    },
+    {
+      "name": "Thadie",
+      "surname": "Malinga",
+      "contactNumber": "0442241918",
+      "homeAddress": "321 Duduzile Trafficway",
+      "idNumber": "4310162749364",
+      "gender": "Genderqueer",
+      "relationship": "Grandfather"
+    },
+    {
+      "name": "Thulisile",
+      "surname": "Fuze",
+      "contactNumber": "0451253527",
+      "homeAddress": "9642 Mkhatshwa Turnpike",
+      "idNumber": "7508232610118",
+      "gender": "Male",
+      "relationship": "Grandson"
+    },
+    {
+      "name": "Siyanda",
+      "surname": "Nondlela",
+      "contactNumber": "0613648335",
+      "homeAddress": "5156 Nsele Radial",
+      "idNumber": "5806187567541",
+      "gender": "Transgender Female",
+      "relationship": "Grandfather"
+    },
+    {
+      "name": "Phiwokwakhe",
+      "surname": "Ndandali",
+      "contactNumber": "0256798777",
+      "homeAddress": "3332 Bhekizizwe Springs",
+      "idNumber": "6904011268690",
+      "gender": "Non-Binary",
+      "relationship": "Niece"
+    },
+    {
+      "name": "Vusumuzi",
+      "surname": "Shezi",
+      "contactNumber": "0250574615",
+      "homeAddress": "127 Langa Circles",
+      "idNumber": "5609183928069",
+      "gender": "Agender",
+      "relationship": "Cousin"
+    }
+  ],
+  [
+    {
+      "name": "Nkosingiphile",
+      "surname": "Nondlela",
+      "contactNumber": "0714336854",
+      "homeAddress": "1051 Gumede Plains",
+      "idNumber": "4606067640906",
+      "gender": "Pangender"
+    },
+    {
+      "name": "Mhambi",
+      "surname": "Wosiyane",
+      "contactNumber": "0340606290",
+      "homeAddress": "113 Mhambi Ferry",
+      "idNumber": "5808122951538",
+      "gender": "Genderqueer",
+      "relationship": "Cousin"
+    },
+    {
+      "name": "Nhlakanipho",
+      "surname": "Nondlela",
+      "contactNumber": "0730347518",
+      "homeAddress": "774 Zanele Lodge",
+      "idNumber": "8508261485818",
+      "gender": "Non-Binary",
+      "relationship": "Father"
+    }
+  ],
+  [
+    {
+      "name": "Gatsha",
+      "surname": "Nhleko",
+      "contactNumber": "0351147778",
+      "homeAddress": "5430 Yengwa Highway",
+      "idNumber": "8602091854092",
+      "gender": "Genderfluid"
+    },
+    {
+      "name": "Nonjabulo",
+      "surname": "Zondo",
+      "contactNumber": "0887139698",
+      "homeAddress": "2670 Bhuyeni Turnpike",
+      "idNumber": "7804253767147",
+      "gender": "Pangender",
+      "relationship": "Nephew"
+    },
+    {
+      "name": "Shaka",
+      "surname": "Siwele",
+      "contactNumber": "0742580237",
+      "homeAddress": "299 Yengwa Extensions",
+      "idNumber": "6701011169214",
+      "gender": "Female",
+      "relationship": "Grandson"
+    },
+    {
+      "name": "Zenzele",
+      "surname": "Delazy",
+      "contactNumber": "0464109628",
+      "homeAddress": "4045 Zondo Park",
+      "idNumber": "4212071121475",
+      "gender": "Two-Spirit",
+      "relationship": "Grandmother"
+    },
+    {
+      "name": "Nkosiyabo",
+      "surname": "Nhleko",
+      "contactNumber": "0642036070",
+      "homeAddress": "1573 Solomon Garden",
+      "idNumber": "4608072873119",
+      "gender": "Genderqueer",
+      "relationship": "Father"
+    },
+    {
+      "name": "Lwandle",
+      "surname": "Nhleko",
+      "contactNumber": "0279384271",
+      "homeAddress": "595 Moseley Knoll",
+      "idNumber": "8912077280432",
+      "gender": "Female",
+      "relationship": "Wife"
+    }
+  ],
+  [
+    {
+      "name": "Nokuthula",
+      "surname": "Nozulu",
+      "contactNumber": "0996950536",
+      "homeAddress": "1891 Ngwazi Vista",
+      "idNumber": "4009075190086",
+      "gender": "Non-Binary"
+    },
+    {
+      "name": "Fanyana",
+      "surname": "Nondlela",
+      "contactNumber": "0258329517",
+      "homeAddress": "413 Sondisa Squares",
+      "idNumber": "4207013006479",
+      "gender": "Two-Spirit",
+      "relationship": "Cousin"
+    },
+    {
+      "name": "Themba",
+      "surname": "Guliwe",
+      "contactNumber": "0157909715",
+      "homeAddress": "19019 Anele Land",
+      "idNumber": "6908030875291",
+      "gender": "Female",
+      "relationship": "Grandfather"
+    }
+  ],
+  [
+    {
+      "name": "Vusumuzi",
+      "surname": "Mavundla",
+      "contactNumber": "0570604605",
+      "homeAddress": "678 Siyanda Ranch",
+      "idNumber": "3808173774361",
+      "gender": "Male"
+    },
+    {
+      "name": "Sibongile",
+      "surname": "Mehloluhlaza",
+      "contactNumber": "0368662313",
+      "homeAddress": "76274 Maduma Plain",
+      "idNumber": "7111117292205",
+      "gender": "Male",
+      "relationship": "Niece"
+    },
+    {
+      "name": "Buhle",
+      "surname": "Bengu",
+      "contactNumber": "0874560905",
+      "homeAddress": "4988 Zanele Falls",
+      "idNumber": "7505221935869",
+      "gender": "Agender",
+      "relationship": "Grandson"
+    }
+  ],
+  [
+    {
+      "name": "Nokuthula",
+      "surname": "Maphisa",
+      "contactNumber": "0422608628",
+      "homeAddress": "42423 Nofoto Ports",
+      "idNumber": "6705135167999",
+      "gender": "Two-Spirit"
+    },
+    {
+      "name": "Nozipho",
+      "surname": "Malinga",
+      "contactNumber": "0257724361",
+      "homeAddress": "2156 Musi Glen",
+      "idNumber": "4607057592651",
+      "gender": "Bigender",
+      "relationship": "Cousin"
+    },
+    {
+      "name": "Funani",
+      "surname": "Nsele",
+      "contactNumber": "0398953304",
+      "homeAddress": "836 Mabhida Bridge",
+      "idNumber": "3802122765888",
+      "gender": "Transgender Female",
+      "relationship": "Nephew"
+    },
+    {
+      "name": "Siphiwe",
+      "surname": "Maphisa",
+      "contactNumber": "0472340038",
+      "homeAddress": "3887 Ulwazi Spurs",
+      "idNumber": "9805205816712",
+      "gender": "Genderqueer",
+      "relationship": "Mother"
+    },
+    {
+      "name": "Thabisa",
+      "surname": "Nozulu",
+      "contactNumber": "0279956102",
+      "homeAddress": "322 Nonyana Divide",
+      "idNumber": "3907036110326",
+      "gender": "Transgender Female",
+      "relationship": "Niece"
+    },
+    {
+      "name": "Bhekizizwe",
+      "surname": "Buthelezi",
+      "contactNumber": "0420733548",
+      "homeAddress": "948 Vilakazi Rue",
+      "idNumber": "5407096993326",
+      "gender": "Agender",
+      "relationship": "Grandfather"
+    },
+    {
+      "name": "Sindisiwe",
+      "surname": "Maphisa",
+      "contactNumber": "0734836448",
+      "homeAddress": "6427 Vilakazi Divide",
+      "idNumber": "5810027689458",
+      "gender": "Genderqueer",
+      "relationship": "Husband"
+    },
+    {
+      "name": "Nkosinhle",
+      "surname": "Ncusi",
+      "contactNumber": "0852300916",
+      "homeAddress": "7676 Funani Inlet",
+      "idNumber": "7810152458977",
+      "gender": "Non-Binary",
+      "relationship": "Friend"
+    },
+    {
+      "name": "Mthunzi",
+      "surname": "Seme",
+      "contactNumber": "0599461843",
+      "homeAddress": "221 Solomon Squares",
+      "idNumber": "6002075364132",
+      "gender": "Pangender",
+      "relationship": "Grandmother"
+    }
+  ],
+  [
+    {
+      "name": "Ulwazi",
+      "surname": "Lembede",
+      "contactNumber": "0376853450",
+      "homeAddress": "3510 Siphiwe Green",
+      "idNumber": "7501080838165",
+      "gender": "Genderfluid"
+    }
+  ],
+  [
+    {
+      "name": "Samukelisiwe",
+      "surname": "Mkhatshwa",
+      "contactNumber": "0893325708",
+      "homeAddress": "503 Ngcolosi Island",
+      "idNumber": "4905260974544",
+      "gender": "Genderqueer"
+    },
+    {
+      "name": "Zenzele",
+      "surname": "Senzangakhona",
+      "contactNumber": "0452082390",
+      "homeAddress": "9438 Mashinini Square",
+      "idNumber": "5111261159934",
+      "gender": "Pangender",
+      "relationship": "Grandmother"
+    },
+    {
+      "name": "Zenzele",
+      "surname": "Thumbeza",
+      "contactNumber": "0827736583",
+      "homeAddress": "70868 Themba Flats",
+      "idNumber": "8611248655637",
+      "gender": "Transgender Female",
+      "relationship": "Aunt"
+    },
+    {
+      "name": "Jabulile",
+      "surname": "Mehloluhlaza",
+      "contactNumber": "0292178365",
+      "homeAddress": "6069 Nonkululeko Overpass",
+      "idNumber": "6809102822503",
+      "gender": "Transgender Male",
+      "relationship": "Grandmother"
+    },
+    {
+      "name": "Nkosiyabo",
+      "surname": "Mkhatshwa",
+      "contactNumber": "0108087209",
+      "homeAddress": "350 Ntombizodwa Knolls",
+      "idNumber": "8311276945958",
+      "gender": "Agender",
+      "relationship": "Daughter"
+    },
+    {
+      "name": "Zithulele",
+      "surname": "Vilakazi",
+      "contactNumber": "0384709349",
+      "homeAddress": "142 Ayize Motorway",
+      "idNumber": "7708208443134",
+      "gender": "Genderfluid",
+      "relationship": "Cousin"
+    },
+    {
+      "name": "Bonginkosi",
+      "surname": "Ngcolosi",
+      "contactNumber": "0162361458",
+      "homeAddress": "56461 Dube Lock",
+      "idNumber": "4301019663063",
+      "gender": "Agender",
+      "relationship": "Uncle"
+    },
+    {
+      "name": "Sinenhlanhla",
+      "surname": "Mbende",
+      "contactNumber": "0234836953",
+      "homeAddress": "605 Zobuhle Springs",
+      "idNumber": "9308105665419",
+      "gender": "Other",
+      "relationship": "Cousin"
+    }
+  ],
+  [
+    {
+      "name": "Sithembiso",
+      "surname": "Maduma",
+      "contactNumber": "0445718009",
+      "homeAddress": "25385 Maphisa Island",
+      "idNumber": "4601052922802",
+      "gender": "Bigender"
+    },
+    {
+      "name": "Uluthando",
+      "surname": "Mavundla",
+      "contactNumber": "0470831632",
+      "homeAddress": "1129 Thoyana Flat",
+      "idNumber": "6111117949558",
+      "gender": "Transgender Male",
+      "relationship": "Niece"
+    },
+    {
+      "name": "Thando",
+      "surname": "Maduma",
+      "contactNumber": "0852762050",
+      "homeAddress": "43403 Kunene Walk",
+      "idNumber": "4005139315975",
+      "gender": "Non-Binary",
+      "relationship": "Wife"
     }
   ]
 ]

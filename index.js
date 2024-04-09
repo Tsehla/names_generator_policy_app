@@ -149,3 +149,49 @@ const numTrees = 20; // Change this to generate desired number of family trees
 const familiesPerFile = 50; // Change this to set the number of families per JSON file
 const maxFamilyMembers = 10; // Change this to set the maximum number of family members per family
 generateFamilyTrees(numTrees, familiesPerFile, maxFamilyMembers);
+
+
+// Read each JSON file and generate HTML
+function generateHTMLFromJSON() {
+    const files = fs.readdirSync('./relationships');
+    files.forEach(file => {
+        if (file.endsWith('.json')) {
+            const jsonData = JSON.parse(fs.readFileSync(`./relationships/${file}`, 'utf-8'));
+            const htmlContent = generateHTMLTable(jsonData);
+            const htmlFileName = file.replace('.json', '.html');
+            fs.writeFileSync(`./relationships/${htmlFileName}`, htmlContent);
+            console.log(`HTML file ${htmlFileName} generated.`);
+        }
+    });
+}
+
+// Generate HTML table from JSON data
+function generateHTMLTable(jsonData) {
+    let htmlContent = '<!DOCTYPE html>\n<html>\n<head>\n<title>Family Tree</title>\n</head>\n<body>\n';
+
+    jsonData.forEach((family, index) => {
+        htmlContent += `<h2>Family ${index + 1}</h2>`;
+        htmlContent += '<table border="1">\n';
+        htmlContent += '<tr><th>Name</th><th>Surname</th><th>Contact Number</th><th>Home Address</th><th>ID Number</th><th>Gender</th><th>Relationship</th></tr>\n';
+
+        family.forEach(member => {
+            htmlContent += `<tr>`;
+            htmlContent += `<td>${member.name}</td>`;
+            htmlContent += `<td>${member.surname}</td>`;
+            htmlContent += `<td>${member.contactNumber}</td>`;
+            htmlContent += `<td>${member.homeAddress}</td>`;
+            htmlContent += `<td>${member.idNumber}</td>`;
+            htmlContent += `<td>${member.gender}</td>`;
+            htmlContent += `<td>${member.relationship || ''}</td>`;
+            htmlContent += `</tr>\n`;
+        });
+
+        htmlContent += '</table>\n';
+    });
+
+    htmlContent += '</body>\n</html>';
+    return htmlContent;
+}
+
+// Generate HTML files
+generateHTMLFromJSON();
